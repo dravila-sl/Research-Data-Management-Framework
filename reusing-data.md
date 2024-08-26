@@ -1,4 +1,4 @@
-# Research Data Management: Considerations for Reusing Data
+Considerations for Reusing Data
 
 Effective research data management is critical when reusing data from other sources. The following considerations will help ensure that the data is handled responsibly and effectively, leading to reproducible and credible research outcomes.
 
