@@ -1,2 +1,2 @@
 # Research-Data-Management-Framework
-A structured repository for managing research data. This framework supports organized, reproducible, and collaborative research workflows, ensuring efficient data handling throughout your project's lifecycle. Ideal for researchers seeking a streamlined approach to data management.
+A comprehensive repository for managing research data, including raw and processed datasets, data processing scripts, analysis results, and documentation. This framework is designed to facilitate organized, reproducible, and collaborative research workflows. Ideal for researchers looking to maintain a well-structured approach to data handling throughout the lifecycle of their projects.
