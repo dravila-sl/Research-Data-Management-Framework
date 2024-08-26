@@ -10,6 +10,7 @@ A comprehensive repository for managing research data, including raw and process
    - **Objective:** Define the data management plan (DMP) outlining how data will be collected, managed, and shared.
    - **Actions:** 
      - Identify the types of data to be collected.
+        - **[Considerations for Reusing Data from Other Sources](./reusing-data.md):**  
      - Determine the tools and methods for data collection.
      - Establish roles and responsibilities within the research team.
      - Plan for data storage, backup, and security.
