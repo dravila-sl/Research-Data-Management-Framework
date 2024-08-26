@@ -4,51 +4,57 @@ A comprehensive repository for managing research data, including raw and process
 
 <img src="RDM-lifecycle-2tier-v5.png" alt="Data Life Cycle" width="400"/>
 
-## Biomedical Data Lifecycle Stages
+## Data Management Life Cycle Principles
 
-The Biomedical Data Lifecycle represents the stages of data handling from collection to publication. The core stages are outlined below, each integral to the overall management and use of your research data. Although the process is generally linear, it is common to revisit and refine earlier stages as your project progresses.
-
-### 1. **Plan & Design**
-   - **Objective:** Develop a comprehensive plan for managing data throughout the research project.
+### 1. **Data Planning**
+   - **Objective:** Define the data management plan (DMP) outlining how data will be collected, managed, and shared.
    - **Actions:** 
-     - Create a Data Management Plan (DMP) detailing how data will be collected, organized, and stored.
-     - Define data resources and onboarding processes for team members.
-     - Plan for data security, privacy, and compliance with relevant regulations.
+     - Identify the types of data to be collected.
+     - Determine the tools and methods for data collection.
+     - Establish roles and responsibilities within the research team.
+     - Plan for data storage, backup, and security.
 
-### 2. **Collect & Create**
-   - **Objective:** Collect and integrate data in a structured and organized manner.
+### 2. **Data Collection**
+   - **Objective:** Gather data in a consistent and organized manner to ensure accuracy and integrity.
    - **Actions:** 
-     - Implement standardized procedures for data collection.
-     - Ensure data is organized and integrated according to predefined criteria.
-     - Document the data collection methods and processes for reproducibility.
+     - Use standardized methods and formats for data collection.
+     - Document the data collection process for transparency and reproducibility.
+     - Regularly validate data to ensure quality.
 
-### 3. **Analyze & Collaborate**
-   - **Objective:** Process and analyze data with a focus on collaboration and documentation.
+### 3. **Data Processing**
+   - **Objective:** Transform raw data into a format suitable for analysis.
    - **Actions:** 
-     - Use appropriate tools and methods for data analysis.
-     - Maintain collaborative workflows and document all analytical processes.
-     - Share intermediate results with collaborators to facilitate feedback and refinement.
+     - Clean and preprocess data to remove errors and inconsistencies.
+     - Document any transformations or modifications made to the data.
+     - Store processed data in well-organized directories.
 
-### 4. **Store & Manage**
-   - **Objective:** Manage data storage throughout all stages of the lifecycle.
+### 4. **Data Analysis**
+   - **Objective:** Analyze the processed data to extract meaningful insights.
    - **Actions:** 
-     - Store data securely and ensure it is easily retrievable.
-     - Implement data backup and recovery procedures.
-     - Manage data access permissions and track changes to data.
+     - Use appropriate statistical and computational tools for analysis.
+     - Maintain a clear and documented analysis workflow.
+     - Version control scripts and notebooks to track changes.
 
-### 5. **Evaluate & Archive**
-   - **Objective:** Assess and archive essential research records.
+### 5. **Data Preservation**
+   - **Objective:** Ensure the long-term preservation of data and associated materials.
    - **Actions:** 
-     - Identify which data and records are essential for long-term retention.
-     - Evaluate the need for data retention based on project requirements and regulatory guidelines.
-     - Archive data in a manner that ensures long-term accessibility and preservation.
+     - Archive raw and processed data in stable formats.
+     - Store data in repositories that offer long-term access.
+     - Include metadata to describe the context, content, and structure of the data.
 
-### 6. **Share & Disseminate**
-   - **Objective:** Make data available and accessible to the broader community.
+### 6. **Data Sharing**
+   - **Objective:** Make data available to other researchers and the public, if appropriate.
    - **Actions:** 
-     - Establish mechanisms for data sharing, including repositories or publication platforms.
-     - Support data dissemination efforts to maximize reach and impact.
-     - Provide clear documentation and metadata to facilitate understanding and use by others.
+     - Share data in open-access repositories or as supplementary materials in publications.
+     - Use licenses that clarify usage rights.
+     - Provide comprehensive documentation to facilitate reuse.
+
+### 7. **Data Reuse**
+   - **Objective:** Enable others to reuse data for new research and insights.
+   - **Actions:** 
+     - Ensure data is well-documented and accessible.
+     - Encourage citation of datasets to give credit to original researchers.
+     - Support the creation of new research outputs from existing data.
 
 ### 7. **Publish & Reuse**
    - **Objective:** Ensure the data can be utilized by other researchers for further studies.
