@@ -103,3 +103,14 @@
      _vv = Two digits version code_
 
 </details>
+
+<details>
+  <summary> <b>References</b> </summary>
+<br>
+  This page organized knowledge and experiences from following resources:
+
+  1. [HMS RDM 2020 Workshop - How to name a file](https://www.youtube.com/watch?v=WKViHPvBo_Y&list=PLWIsV2soJK-VaW7IhxYyyOwiamjVV_FuB&index=87)
+  
+  2. [CDS - File Management](https://data.research.cornell.edu/data-management/storing-and-managing/file-management/)
+
+</details>
