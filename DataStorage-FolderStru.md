@@ -59,3 +59,14 @@ Project_A
 
   
 </details>
+
+<details>
+  <summary> <b>References</b> </summary>
+<br>
+  This page organized knowledge and experiences from following resources:
+
+  1. [HMS RDM 2024 Webinar - I've generated Data, Now What? The When, Where, and How of Data Storage](https://www.youtube.com/watch?v=prtBCHQ2c50&list=PLWIsV2soJK-VaW7IhxYyyOwiamjVV_FuB&index=4)
+  
+  2. [HMS RDM - File Organization](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
+
+</details>
