@@ -90,3 +90,16 @@ It provides a clear and concise description of the files in the folder and all r
 (link to templates)
 
 </details>
+
+<details>
+  <summary> <b>References</b> </summary>
+<br>
+  This page organized knowledge and experiences from following resources:
+
+  1. [HMS RDM 2024 Webinar - Closing Out Your Research: Managing Data Transfer Between Collaborators](https://www.youtube.com/watch?v=JZNShVSS7Jc)
+  
+  2. [HMS RDM 2024 Webinar - Achieving FAIR Data: Selecting a Repository for Your Data](https://www.youtube.com/watch?v=vIWrRnbU3Jo)
+  
+  3. [CDS - Guide to writing “readme” style metadata](https://data.research.cornell.edu/data-management/sharing/readme/)
+
+</details>
