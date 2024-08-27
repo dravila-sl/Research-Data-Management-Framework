@@ -82,10 +82,24 @@
     
 7. Document the naming convention in a ReadMe text and keep it with the files.
   
-   _Example:_
+   _Example_01:_
 
-   _The naming convention is:_
+   _The naming convention for tissue sample dataset is:_
 
-   _[Serial-ID-Number]\_[TestName-Code]\_[YYYY-MM-DD]\_[Version]\_[Status].[csv]_
+   _<b>[TissueName]\_[Serial-ID-Number]\_[YYYY-MM-DD]\_[Status].[csv]</b>_
+   
+   <br>
+   
+   _Example_02:_
+
+   _The image files are named <b> lll\_ssss\_rr\_vv.tif </b> where:_
+
+     _lll = Three digits location code to indicate where the image was generated_
+
+     _ssss = Numeric sample Id_
+
+     _rr = Resoulation level_
+
+     _vv = Two digits version code_
 
 </details>
