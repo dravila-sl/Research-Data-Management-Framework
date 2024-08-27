@@ -75,3 +75,18 @@ It provides a clear and concise description of the files in the folder and all r
   4. Recommended citation for the data
 
 </details>
+
+<details>
+  <summary> <b> Example </b> </summary>
+
+
+</details>
+
+</details>
+
+<details>
+  <summary> <b> Templates </b> </summary>
+
+(link to templates)
+
+</details>
