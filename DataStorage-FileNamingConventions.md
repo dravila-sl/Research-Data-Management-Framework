@@ -24,12 +24,14 @@
 <details>
 <summary> <b>Keep the file name short, simple and self-explanatory</b> </summary>
   
-1. Use abbreviation or code
+1. Use abbreviation or code.
    
-   _Example: Labotory A = LabA, Project 2 = P2, Mouse with serial number 255 = MOU-255_
+   _Example:_
+
+   _Labotory A = LabA, Project 2 = P2, Mouse with serial number 255 = MOU-255_
    
 
-3. Document the chosen abbreviation and codes. Do not leave any "commonly known" abbreviation undocumented.
+2. Document the chosen abbreviation and codes. Do not leave any "commonly known" abbreviation undocumented.
 
 </details>
 
@@ -54,26 +56,36 @@
 <details>
 <summary> <b> Recommended practices </b> </summary>
   
-1. Use two digits for numbering
-   _Example: using "01_File.tif", "05_file.tif" instead of "1_File.tif"._
+1. Use two or three digits for numbering.
+
+   _Example:_
+
+   _Use "01_File.tif", "05_file.tif" instead of "1_File.tif"._
 
    _Otherwise "10_File.tif" will appear on the top when sorting the files._
 
-2. No spaces or special characters in the name.
+2. No blank spaces in the name.
+   
 3. Be case-sensitive for the machine readability. (_i.e. "sample" vs "Sample"_)
 
-   Use dash "-" to seperate numbers.
+4. Capitalize the first letter of each word to make it readable.
 
-   Use underscore "_" to seperate metadata.
+5. Avoid special characters. Use dash "-" to seperate numbers and underscore "_" to seperate metadata.
 
-   Capitalize the first letter of each word to make it readable.
+   _Example:_
 
-4. Document naming convention in a ReadMe text and keep it with the files.
+   _LiverTissue\_Mou-255\_SampleId-8526\_2020-01-30.tif_
+   
+   _MedImage\_Forearm-1\_PatId-123\_Clinic-A789\_20210325.dcm_
+
+6. Keep a reasonable length of file name. Ideally under 50 characters. 
+    
+7. Document the naming convention in a ReadMe text and keep it with the files.
   
    _Example:_
 
    _The naming convention is:_
 
-   _[Serial-ID-Number]\_[LabTestCode]\_[YYYY-MM-DD]\_[Version]\_[Status].[csv]_
+   _[Serial-ID-Number]\_[TestName-Code]\_[YYYY-MM-DD]\_[Version]\_[Status].[csv]_
 
 </details>
