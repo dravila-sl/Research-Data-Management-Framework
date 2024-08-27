@@ -6,7 +6,7 @@
    
    _(i.e. Raw Data, Audio files, Imaging data, Lab Books, Methodologies, etc.)_
 
-3. How file should be organized in this folder?
+3. How should files be organized in this folder?
    
    _(i.e. by dates, by classifications, etc.)_
 
@@ -23,7 +23,7 @@ Project_A
  |   |- Role & Responsibilites
  |   |- Project Introduction
  |
- |- 1 Data (This is a top level directory)
+ |- 1 Data (This is a higher level directory)
  |   |
  |   |- ReadMe.txt (What is in this folder? How to find a specific file/data?)
  |   | 
@@ -54,6 +54,7 @@ Project_A
  |   |- Figure
  |   |- Plot
  |   |- Results/Report
+   
 </pre>
 
   
