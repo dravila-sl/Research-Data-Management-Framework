@@ -1,4 +1,11 @@
-# Folder Structure
+## What should we structure the directory?
+
+Which one is easier to find the file you need at 2 am?
+(pics of two folder structures)
+
+
+
+## Recommended practices for folder structure
 
 1. Establish the system and stay consistently.
 
@@ -13,6 +20,8 @@
 4. Create ReadMe.txt to describe contents and conventions.
    
    It is not mandatory for each directory but in a higher level directory (see example).
+
+   [How to write a ReadMe file] (link to the readme-page)
 
 <details>
   <summary> <b>Example</b> </summary>
@@ -56,8 +65,6 @@ Project_A
  |   |- Results/Report
    
 </pre>
-
-  
 </details>
 
 <details>
