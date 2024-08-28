@@ -1,4 +1,4 @@
-## What should we structure the directory?
+## Why should we structure the directory?
 
 Which one is easier to find the file you need at 2 am?
 (pics of two folder structures)
