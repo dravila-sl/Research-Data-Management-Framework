@@ -10,21 +10,18 @@ Project_A
  |   |- 2 Processed Data
  | 
  |- 2 Analysis
-   
 </pre>
 
 <pre>
 Project_B
- |- dataset_copy
- |- DATASET2
- |- dataset_1
- |- Dataset_2.3
- |- Script
- |- Script_NEW
- |- Script500
-
+ |- dataset_copy.json
+ |- DATASET2.csv
+ |- dataset_1.xml
+ |- Dataset_2.3.csv
+ |- script.py
+ |- Script500.rdata
+ |- plot_data6.rdata
 </pre>
-
 
 
 ## Recommended practices for folder structure
@@ -55,36 +52,32 @@ Project_A
  |   |- Project Introduction
  |
  |- 1 Data
- |   |
- |   |- README.txt (What is in these folders? How to find a specific file/data?)
- |   | 
+ |   |- README_data.txt (What is in these folders? How to find a specific file/dataset?)
  |   |- 1 Raw Data 
  |   |   |- 1 Local Laboratory 
- |   |   |   |- Data specification
- |   |   |   |- Codebook/CodeDictionary
- |   |   |   |- Raw dataset 1
- |   |   |   |- Raw dataset 2
+ |   |   |   |- README_rawData_local.txt
+ |   |   |   |- dataset_1.csv
+ |   |   |   |- dataset_2.csv
  |   |   |
  |   |   |- 2 External Data Source
- |   |   |   |- Data specification
- |   |   |   |- Codebook/CodeDictionary
- |   |   |   |- Raw dataset 1
- |   |   |   |- Raw dataset 2
- |   |   |   |- Script 1
- |   |   |   |- Script 2
- |   |   |   |- DataLicensing/Authorization 
+ |   |   |   |- README_rawData_external.txt
+ |   |   |   |- dataset_e_1.csv
+ |   |   |   |- dataset_e_2.csv
+ |   |   |   |- Script_1.py
+ |   |   |   |- Script_2.py
+ |   |   |   |- DataTransferAgreement/AuthorizationToReuse.pdf
  |   |   
  |   |- 2 Processed Data
- |   |   |- Processed Dataset
- |   |   |- Codebook/CodeDictionary
- |   |   |- Script
+ |   |   |- README_processedData.txt
+ |   |   |- Processed_data.csv
+ |   |   |- Script_processed.py
  | 
  |- 2 Result/Analysis
- |   |- Script
- |   |- Statistical Model
- |   |- Figure
- |   |- Plot
- |   |- Results/Report
+ |   |- README_analysis.txt
+ |   |- Script_model_1.py
+ |   |- Script_model_2.py
+ |   |- Plot_model_1.jpg
+ |   |- Plot_model_2.jpg
    
 </pre>
 </details>
