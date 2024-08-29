@@ -1,7 +1,29 @@
 ## Why should we structure the directory?
 
-Which one is easier to find the file you need at 2 am?
-(pics of two folder structures)
+Which following project directory would you like to see?
+
+<pre>
+Project_A
+ |- 1 Data
+ |   |- README.txt
+ |   |- 1 Raw Data 
+ |   |- 2 Processed Data
+ | 
+ |- 2 Analysis
+   
+</pre>
+
+<pre>
+Project_B
+ |- dataset_copy
+ |- DATASET2
+ |- dataset_1
+ |- Dataset_2.3
+ |- Script
+ |- Script_NEW
+ |- Script500
+
+</pre>
 
 
 
@@ -17,11 +39,11 @@ Which one is easier to find the file you need at 2 am?
    
    _(i.e. by dates, by classifications, etc.)_
 
-4. Create ReadMe.txt to describe contents and conventions.
-   
-   It is not mandatory for each directory but in a higher level directory (see example).
+4. Create a README file at the beginning and update it throughout the research.
 
-   [How to write a ReadMe file] (link to the readme-page)
+   It is not mandatory for each directory but recommanded for a higher level directory or a complex dataset.
+
+   For more details about README file, see [How to write a README file] (link to the readme-page)
 
 <details>
   <summary> <b>Example</b> </summary>
@@ -32,9 +54,9 @@ Project_A
  |   |- Role & Responsibilites
  |   |- Project Introduction
  |
- |- 1 Data (This is a higher level directory)
+ |- 1 Data
  |   |
- |   |- ReadMe.txt (What is in this folder? How to find a specific file/data?)
+ |   |- README.txt (What is in these folders? How to find a specific file/data?)
  |   | 
  |   |- 1 Raw Data 
  |   |   |- 1 Local Laboratory 
