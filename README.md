@@ -24,7 +24,7 @@ A comprehensive repository for managing research data. This framework is designe
 Effective data management is critical for ensuring the quality, accessibility, and reusability of research data. This repository outlines the data management cycle based on the principles of **Data Stewardship for Open Science** as described by Barend Mons. Each step in this cycle is crucial for maintaining the integrity and usability of data throughout the research process. It aims to assist researchers, data stewards, and institutions in effectively managing research data following the FAIR (Findable, Accessible, Interoperable, Reusable) principles.
 
 
-<img src="data-lifecycle-preview.jpg" alt="Data Life Cycle" width="700"/>
+<img src="data-lifecycle-preview.png" alt="Data Life Cycle" width="700"/>
 
 
 ## Data Cycle Steps
