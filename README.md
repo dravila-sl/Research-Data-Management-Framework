@@ -14,8 +14,8 @@ A comprehensive repository for managing research data. This framework is designe
    - [Step 6: Data Analysis and Interpretation](#step-6-data-analysis-and-interpretation)
    - [Step 7: Information and Insight Publishing](#step-7-information-and-insight-publishing)
 3. [References](#references)
-4. [Author](#author)
-5. [Intended Audience](#intended-audience)
+4. [Intended Audience](#intended-audience)
+5. [Authors](#authors)
 6. [Supplementary Reading](#supplementary-reading)
 7. [License](#license)
 
@@ -82,17 +82,17 @@ The final step is **Information and Insight Publishing**. This phase involves sh
 
 - Mons, B. (2021). Data Stewardship for Open Science: Implementing Fair principles. Chapman & Hall/CRC
 
-## Authors
-
-- **Names:**
-- **Affiliation:** Universität zu Köln
-
 ## Intended Audience
 
 This repository is intended for:
 
 - Researchers and data scientists involved in data-intensive research.
 - Data stewards and PIs responsible for managing research data.
+
+## Authors
+
+- **Names:**
+- **Affiliation:** Universität zu Köln
 
 ## Supplementary Reading
 
