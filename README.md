@@ -15,16 +15,16 @@ A comprehensive repository for managing research data. This framework is designe
    - [Step 7: Information and Insight Publishing](#step-7-information-and-insight-publishing)
 3. [References](#references)
 4. [Author](#author)
-5. [License](#license)
-6. [Intended Audience](#intended-audience)
-7. [Supplementary Reading](#supplementary-reading)
+5. [Intended Audience](#intended-audience)
+6. [Supplementary Reading](#supplementary-reading)
+7. [License](#license)
 
 ## Introduction
 
 Effective data management is critical for ensuring the quality, accessibility, and reusability of research data. This repository outlines the data management cycle based on the principles of **Data Stewardship for Open Science** as described by Barend Mons. Each step in this cycle is crucial for maintaining the integrity and usability of data throughout the research process. It aims to assist researchers, data stewards, and institutions in effectively managing research data following the FAIR (Findable, Accessible, Interoperable, Reusable) principles.
 
 
-<img src="data-lifecycle-preview.png" alt="Data Life Cycle" width="400"/>
+<img src="data-lifecycle-preview.jpg" alt="Data Life Cycle" width="700"/>
 
 
 ## Data Cycle Steps
@@ -87,10 +87,6 @@ The final step is **Information and Insight Publishing**. This phase involves sh
 - **Name:** Ahmad Abu Dayeh, Yu-ting Fu
 - **Affiliation:** Universität zu Köln
 
-## License
-
-- 
-
 ## Intended Audience
 
 This repository is intended for:
@@ -99,5 +95,9 @@ This repository is intended for:
 - Data stewards and PIs responsible for managing research data.
 
 ## Supplementary Reading
+
+- 
+
+## License
 
 - 
