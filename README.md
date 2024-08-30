@@ -82,9 +82,9 @@ The final step is **Information and Insight Publishing**. This phase involves sh
 
 - Mons, B. (2021). Data Stewardship for Open Science: Implementing Fair principles. Chapman & Hall/CRC
 
-## Author
+## Authors
 
-- **Name:** Ahmad Abu Dayeh, Yu-ting Fu
+- **Names:**
 - **Affiliation:** Universität zu Köln
 
 ## Intended Audience
