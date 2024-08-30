@@ -74,9 +74,9 @@ For example, you have to open _"dataset3.csv"_ to know what is in the dataset. W
 
    _Example:_
 
-   _Use "01_File.tif", "05_file.tif" instead of "1_File.tif"._
+   _Use "01_image.tif", "05_image.tif" instead of "1_image.tif"._
 
-   _Otherwise "10_File.tif" will appear on the top when sorting the files._
+   _Otherwise "10_image.tif" will appear on the top when sorting the files._
 
 2. No blank spaces in the name.
    
@@ -90,7 +90,7 @@ For example, you have to open _"dataset3.csv"_ to know what is in the dataset. W
 
    _LiverTissue\_Mou-255\_SampleId-8526\_2020-01-30.tif_
    
-   _MedImage\_Forearm-1\_PatId-123\_Clinic-A789\_20210325.dcm_
+   _MedImage\_Forearm-1\_PatId-123\_Hospital-09\_20210325.dcm_
 
 6. Keep a reasonable length of file name. Ideally under 50 characters. 
     
