@@ -2,64 +2,103 @@
 A comprehensive repository for managing research data, including raw and processed datasets, data processing scripts, analysis results, and documentation. This framework is designed to facilitate organized, reproducible, and collaborative research workflows. Ideal for researchers looking to maintain a well-structured approach to data handling throughout the lifecycle of their projects.
 
 
-<img src="RDM-lifecycle-2tier-v5.png" alt="Data Life Cycle" width="400"/>
+## Table of Contents
 
-## Data Management Life Cycle Principles
+1. [Introduction](#introduction)
+2. [Data Cycle Steps](#data-cycle-steps)
+   - [Step 1: Design of Experiment](#step-1-design-of-experiment)
+   - [Step 2: Data Design and Planning](#step-2-data-design-and-planning)
+   - [Step 3: Data Capture (Equipment Phase)](#step-3-data-capture-equipment-phase)
+   - [Step 4: Data Processing and Curation](#step-4-data-processing-and-curation)
+   - [Step 5: Data Linking and Integration](#step-5-data-linking-and-integration)
+   - [Step 6: Data Analysis and Interpretation](#step-6-data-analysis-and-interpretation)
+   - [Step 7: Information and Insight Publishing](#step-7-information-and-insight-publishing)
+3. [References](#references)
+4. [Author](#author)
+5. [License](#license)
+6. [Intended Audience](#intended-audience)
+7. [Supplementary Reading](#supplementary-reading)
 
-### 1. **Data Planning**
-   - **Objective:** Define the data management plan (DMP) outlining how data will be collected, managed, and shared.
-   - **Actions:** 
-     - Identify the types of data to be collected.
-        - **[Considerations for Reusing Data from Other Sources](./reusing-data.md):**  
-     - Determine the tools and methods for data collection.
-     - Establish roles and responsibilities within the research team.
-     - Plan for data storage, backup, and security.
+## Introduction
 
-### 2. **Data Collection**
-   - **Objective:** Gather data in a consistent and organized manner to ensure accuracy and integrity.
-   - **Actions:** 
-     - Use standardized methods and formats for data collection.
-     - Document the data collection process for transparency and reproducibility.
-     - Regularly validate data to ensure quality.
+This repository provides resources and documentation on the **Research Data Management (RDM) Cycle**. It aims to assist researchers, data stewards, and institutions in effectively managing research data following the FAIR (Findable, Accessible, Interoperable, Reusable) principles.
 
-### 3. **Data Processing**
-   - **Objective:** Transform raw data into a format suitable for analysis.
-   - **Actions:** 
-     - Clean and preprocess data to remove errors and inconsistencies.
-     - Document any transformations or modifications made to the data.
-     - Store processed data in well-organized directories.
 
-### 4. **Data Analysis**
-   - **Objective:** Analyze the processed data to extract meaningful insights.
-   - **Actions:** 
-     - Use appropriate statistical and computational tools for analysis.
-     - Maintain a clear and documented analysis workflow.
-     - Version control scripts and notebooks to track changes.
+<img src="data-lifecycle.png" alt="Data Life Cycle" width="400"/>
 
-### 5. **Data Preservation**
-   - **Objective:** Ensure the long-term preservation of data and associated materials.
-   - **Actions:** 
-     - Archive raw and processed data in stable formats.
-     - Store data in repositories that offer long-term access.
-     - Include metadata to describe the context, content, and structure of the data.
 
-### 6. **Data Sharing**
-   - **Objective:** Make data available to other researchers and the public, if appropriate.
-   - **Actions:** 
-     - Share data in open-access repositories or as supplementary materials in publications.
-     - Use licenses that clarify usage rights.
-     - Provide comprehensive documentation to facilitate reuse.
+## Data Cycle Steps
 
-### 7. **Data Reuse**
-   - **Objective:** Enable others to reuse data for new research and insights.
-   - **Actions:** 
-     - Ensure data is well-documented and accessible.
-     - Encourage citation of datasets to give credit to original researchers.
-     - Support the creation of new research outputs from existing data.
+<details>
+<summary><strong>Step 1: Design of Experiment</strong></summary>
 
-### 7. **Publish & Reuse**
-   - **Objective:** Ensure the data can be utilized by other researchers for further studies.
-   - **Actions:** 
-     - Publish data in accessible formats and repositories.
-     - Promote the reuse of data by providing comprehensive documentation and metadata.
-     - Encourage citation and acknowledgment of data sources in related research.
+The first step in the data management cycle is the **Design of Experiment**. During this phase, researchers outline the scientific questions and hypotheses that will guide their study. This stage involves determining the type of data required, the experimental conditions, and the overall methodological framework. Proper planning at this stage ensures that the data collected will be relevant and sufficient for the research objectives.
+
+</details>
+
+<details>
+<summary><strong>Step 2: Data Design and Planning</strong></summary>
+
+The **Data Design and Planning** phase involves setting up the infrastructure and protocols for data collection. This includes deciding on data formats, metadata standards, and storage solutions. It's essential to consider the FAIR principles at this stage to ensure that data will be easily findable, accessible, interoperable, and reusable in the future.
+
+</details>
+
+<details>
+<summary><strong>Step 3: Data Capture (Equipment Phase)</strong></summary>
+
+In the **Data Capture** phase, data is collected using various instruments and equipment. This step requires strict adherence to data collection protocols to ensure data quality and consistency. Researchers must also document the data collection process thoroughly, including any calibration or standardization procedures applied to the equipment.
+
+</details>
+
+<details>
+<summary><strong>Step 4: Data Processing and Curation</strong></summary>
+
+The **Data Processing and Curation** stage involves transforming raw data into a usable format. This includes data cleaning, normalization, and validation. Data curation also involves the organization and documentation of data to facilitate its long-term preservation and accessibility.
+
+</details>
+
+<details>
+<summary><strong>Step 5: Data Linking and Integration</strong></summary>
+
+During the **Data Linking and Integration** phase, different data sources are connected to provide a comprehensive view of the research findings. This step might involve integrating data from multiple experiments, linking datasets with external resources, or creating relational databases.
+
+</details>
+
+<details>
+<summary><strong>Step 6: Data Analysis and Interpretation</strong></summary>
+
+In the **Data Analysis and Interpretation** phase, the processed data is analyzed to extract meaningful insights. Researchers apply statistical methods, computational models, and visualization techniques to interpret the data and answer the original research questions.
+
+</details>
+
+<details>
+<summary><strong>Step 7: Information and Insight Publishing</strong></summary>
+
+The final step is **Information and Insight Publishing**. This phase involves sharing the results and data with the broader scientific community. Data and insights should be published in a way that ensures reproducibility and transparency, adhering to the FAIR principles.
+
+</details>
+
+## References
+
+- Mons, B. (2021). Data Stewardship for Open Science: Implementing Fair principles. Chapman & Hall/CRC
+
+## Author
+
+- **Name:** Ahmad Abu Dayeh, Yu-ting Fu
+- **Affiliation:** Universität zu Köln
+
+## License
+
+- 
+
+## Intended Audience
+
+This repository is intended for:
+
+- Researchers and data scientists involved in data-intensive research.
+- Data stewards and PIs responsible for managing research data.
+
+## Supplementary Reading
+
+- 
+
