@@ -98,9 +98,9 @@ For example, you have to open _"dataset3.csv"_ to know what is in the dataset. W
   
    _Example_01:_
 
-   _The naming convention for tissue sample dataset is:_
+   _The naming convention for biopsy sample dataset is:_
 
-   _<b>[TissueName]\_[Serial-ID-Number]\_[YYYY-MM-DD]\_[Status].[csv]</b>_
+   _<b>[Bodyparts]\_[Serial-ID-Number]\_[LaboratoryName]\_[YYYY-MM-DD].[csv]</b>_
    
    <br>
    
