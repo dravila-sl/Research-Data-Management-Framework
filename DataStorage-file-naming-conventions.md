@@ -1,16 +1,29 @@
 # File Naming Conventions
 
-<b>Before naming a file or a specific dataset: </b>
+### Why do we need conventions for file names?
+
+A file/dataset with an informative name improves the efficiency.
+
+You don't have to open the file/dataset to know what the content is. Your team or collaborators from another institute could easily identify the file/dataset they need without asking you for details. 
+
+For example, you have to open _"dataset3.csv"_ to know what is in the dataset. While you can visually understand what is in _"adverseEvent_hospital-05_20240501.csv"_ and use the dataset. 
+<pre>
+  Project_A
+    |- dataset3.csv    
+    |- adverseEvent_hospital-05_20240501.csv
+</pre>
+
+### Before naming a file or a specific dataset
 
 1. Check with your team if there is an estblished file naming convention.
 
-2. Conventions should be documented so others in your team or lab could follow. 
+2. Conventions should be documented so others in your team or researchers from anothre institute could also apply them. 
 
 3. It is not likely to have one convention for all files. Use different conventions for different type of files or datasets.
 
 
 <details>
-<summary> <b>Things to consider before establishing a naming convention</b> </summary>
+<summary> <b>What to consider before establishing a naming convention?</b> </summary>
   
 1. What distinct these files from other files? (Consider metadata like the content, date, location, etc.)
 
@@ -22,7 +35,7 @@
 </details>
 
 <details>
-<summary> <b>Keep the file name short, simple and self-explanatory</b> </summary>
+<summary> <b>How to keep the file name short, simple and self-explanatory?</b> </summary>
   
 1. Use abbreviation or code.
    
@@ -36,7 +49,7 @@
 </details>
 
 <details>
-<summary> <b> Track the change of files</b> </summary>
+<summary> <b> How to track the change of files?</b> </summary>
   
 1. Add version information. Could be number (_i.e. v1.2, v3.0_) or status (_i.e. \_processed, \_amended, \_raw_).
 
@@ -45,16 +58,17 @@
 </details>
 
 <details>
-<summary> <b> The order of metadata in the name</b> </summary>
+<summary> <b> How to decide the order of metadata in the name?</b> </summary>
   
 1. Place the most important metadata at the beginning.
 
 2. How would you like to sort the files? _(i.e. alphabetically, numerically or chronologically)_
 
 </details>
+<br></br>
 
-<details>
-<summary> <b> Recommended practices </b> </summary>
+>[!NOTE]
+><b> Recommended practices </b>
   
 1. Use two or three digits for numbering.
 
@@ -70,7 +84,7 @@
 
 4. Capitalize the first letter of each word to make it readable.
 
-5. Avoid special characters. Use dash "-" to seperate numbers and underscore "_" to seperate metadata.
+5. Avoid special characters. Use dash <b>( - )</b> to seperate numbers and underscore <b>( _ )</b> to seperate metadata.
 
    _Example:_
 
@@ -80,7 +94,7 @@
 
 6. Keep a reasonable length of file name. Ideally under 50 characters. 
     
-7. Document the naming convention in a ReadMe text and keep it with the files.
+7. Document the naming convention in a README text and keep it with the files. (link to how-to-readMe)
   
    _Example_01:_
 
@@ -102,7 +116,6 @@
 
      _vv = Two digits version code_
 
-</details>
 
 <details>
   <summary> <b>References</b> </summary>
