@@ -22,7 +22,7 @@ They should be able to answer questions like:
 >Try it before you actually need it.
 
 
-### How many backup should we have? 
+### How many backups should we have? 
 An easy-to-follow rule is <b>3-2-1 Backup Rule</b> that always make sure your data have: 
 
   - <b>three</b> copies of data 
