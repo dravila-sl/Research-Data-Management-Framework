@@ -17,7 +17,7 @@ They should be able to answer questions like:
 - How to access the backup if needed to recover the data?
 
 >[!NOTE]
->Make sure the data can actually be recovered from the backup.
+>Make sure the data can be recovered from the backup.
 >
 >Try it before you actually need it.
 
