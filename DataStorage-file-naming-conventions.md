@@ -2,49 +2,155 @@
 
 ### Why do we need conventions for file names?
 
-A file/dataset with an informative name improves the efficiency.
+A file with an informative name improves efficiency for everyone.
 
-You don't have to open the file/dataset to know what the content is. Your team or collaborators from another institute could easily identify the file/dataset they need without asking you for details. 
+ - You know what is in the file without opening it.
+ 
+ - Your team members could easily find the file they need without asking you for details.
+ 
+ - Your collaborators from another institute could easily identify the file and reuse them without waiting for your reply. 
 
-For example, you have to open _"dataset3.csv"_ to know what is in the dataset. While you can visually understand what is in _"adverseEvent_hospital-05_20240501.csv"_ and use the dataset. 
+For example, you have to open _"dataset3.csv"_ to know what is in the file. While you can visually understand what is in _"adverseEvent_hospital-05_20240501.csv"_ and use it. 
 <pre>
   Project_A
     |- dataset3.csv    
     |- adverseEvent_hospital-05_20240501.csv
 </pre>
 
-### Before naming a file or a specific dataset
+>[!IMPORTANT]
+>Before naming a file, checking if there is a README file documenting the convention or asking around.
 
-1. Check with your team if there is an estblished file naming convention.
+### What to consider before establishing a naming convention?
 
-2. Conventions should be documented so others in your team or researchers from anothre institute could also apply them. 
-
-3. It is not likely to have one convention for all files. Use different conventions for different type of files or datasets.
-
-
-<details>
-<summary> <b>What to consider before establishing a naming convention?</b> </summary>
-  
 1. What distinct these files from other files? (Consider metadata like the content, date, location, etc.)
 
-2. Pick three most important metadata. (It is not a "the more the merrier" situation)
+2. Pick the three most important metadata. (It is not a "the more the merrier" situation)
 
-3. The name should be human readable and contain enough information for visually scanning the files.
+3. The name should be human-readable and contain enough information for visually scanning the files.
 
+4. Document your conventions that your team members or researchers from another institute could easily understand.
 
-</details>
+5. Use different conventions for different type of files.
+
+   <blockquote>
+     <details>
+       <summary>Example</summary>
+       
+   _A reaserch project has documents like protocol, code book, agreements etc. that are unique in their folder. They could have a shared convention as [fileTitle\_updatedDate\_status\_version]._ 
+   
+     _And for dataset that may have multiple files in a folder, they could follow a convention for dataset as [datasetTitle\_serial-ID\_location\_date\_status].)_
+
+     </details>
+   </blockquote>
+
+   
+### Recomended practices
+
+1. Use two or three digits for numbering.
+
+   <blockquote>
+     <details>
+       <summary>Example</summary>
+       
+   _Use "01_image.tif", "05_image.tif" instead of "1_image.tif"._
+
+   _Otherwise "10_image.tif" will appear on the top when sorting the files._
+
+     </details>
+   </blockquote>
+   
+2. Avoid having blank spaces in the name. If combining words together as metadata, capitalize the first letter of each word for human readibility.
+
+     <blockquote>
+     <details>
+       <summary>Example</summary>
+       
+   _livertissue20210506.tif_ <br>  and <br>   _LiverTissue\_20210506.tif_
+   
+   _rightarmmedicalimage20210325.dcm_ <br>  and <br>   _RightArmMedicalImage\_20210325.dcm_
+     </details>
+   </blockquote>
+   
+3. Be case-sensitive and stay consistent for the machine readability. 
+    <blockquote>
+     <details>
+       <summary>Example</summary>
+       
+   _"tissuesample.csv" and "TissueSample.csv" are different files for the machine to load._
+
+     </details>
+   </blockquote>
+   
+4. Avoid special characters in the file name.
+
+   Use dash <b>( - )</b> to seperate numbers and underscore <b>( _ )</b> to seperate metadata.
+
+   <blockquote>
+     <details>
+       <summary>Example</summary>
+       
+   _LiverTissue\_Mou-255\_SampleId-8526\_2020-01-30.tif_
+   
+   _MedImage\_Forearm-1\_PatId-123\_Hospital-09\_20210325.dcm_
+     </details>
+   </blockquote>
+   
+5. Use abbreviations or codes to keep the file name short and self-explanatory. Ideally under 50 characters.
+
+   Document used abbreviations or codes. Do not leave any "commonly known" abbreviation undocumented.
+   
+   <blockquote>
+     <details>
+       <summary>Example - abbreviations</summary>
+
+      _Labotory A = LabA, Project 2 = P2, Mouse with serial number 255 = MOU-255_
+   
+     </details>
+   </blockquote>
+   <blockquote>
+     <details>
+       <summary>Example - codes</summary>
+
+     _H = high, N = normal, L = low_
+   
+     </details>
+   </blockquote>
+6. Document the naming convention in a README text and keep it with the files. (link to how-to-readMe)
+
+   <blockquote>
+   <details>
+     <summary> Example_01</summary>
+     
+   _The naming convention for biopsy sample dataset is:_
+
+   _<b>[Bodyparts]\_[Serial-ID-Number]\_[LaboratoryName]\_[YYYY-MM-DD].[csv]</b>_
+   
+   </details>
+   </blockquote>
+   
+   <blockquote>
+      <details>
+     <summary> Example_02</summary>
+        
+     _The image files are named <b> lll\_ssss\_rr\_vv.tif </b> where:_
+
+     _lll = Three digits location code to indicate where the image was generated_
+
+     _ssss = Numeric sample Id_
+
+     _rr = Resoultion level_
+
+     _vv = Two digits version code_
+
+   </details>    
+   </blockquote>   
 
 <details>
-<summary> <b>How to keep the file name short, simple and self-explanatory?</b> </summary>
+<summary> <b> How to decide the order of metadata in the name?</b> </summary>
   
-1. Use abbreviation or code.
-   
-   _Example:_
+1. Place the most important metadata at the beginning.
 
-   _Labotory A = LabA, Project 2 = P2, Mouse with serial number 255 = MOU-255_
-   
-
-2. Document the chosen abbreviation and codes. Do not leave any "commonly known" abbreviation undocumented.
+2. How would you like to sort the files? _(i.e. alphabetically, numerically or chronologically)_
 
 </details>
 
@@ -57,64 +163,6 @@ For example, you have to open _"dataset3.csv"_ to know what is in the dataset. W
 
 </details>
 
-<details>
-<summary> <b> How to decide the order of metadata in the name?</b> </summary>
-  
-1. Place the most important metadata at the beginning.
-
-2. How would you like to sort the files? _(i.e. alphabetically, numerically or chronologically)_
-
-</details>
-<br></br>
-
->[!NOTE]
-><b> Recommended practices </b>
-  
-1. Use two or three digits for numbering.
-
-   _Example:_
-
-   _Use "01_image.tif", "05_image.tif" instead of "1_image.tif"._
-
-   _Otherwise "10_image.tif" will appear on the top when sorting the files._
-
-2. No blank spaces in the name.
-   
-3. Be case-sensitive for the machine readability. (_i.e. "sample" vs "Sample"_)
-
-4. Capitalize the first letter of each word to make it readable.
-
-5. Avoid special characters. Use dash <b>( - )</b> to seperate numbers and underscore <b>( _ )</b> to seperate metadata.
-
-   _Example:_
-
-   _LiverTissue\_Mou-255\_SampleId-8526\_2020-01-30.tif_
-   
-   _MedImage\_Forearm-1\_PatId-123\_Hospital-09\_20210325.dcm_
-
-6. Keep a reasonable length of file name. Ideally under 50 characters. 
-    
-7. Document the naming convention in a README text and keep it with the files. (link to how-to-readMe)
-  
-   _Example_01:_
-
-   _The naming convention for biopsy sample dataset is:_
-
-   _<b>[Bodyparts]\_[Serial-ID-Number]\_[LaboratoryName]\_[YYYY-MM-DD].[csv]</b>_
-   
-   <br>
-   
-   _Example_02:_
-
-   _The image files are named <b> lll\_ssss\_rr\_vv.tif </b> where:_
-
-     _lll = Three digits location code to indicate where the image was generated_
-
-     _ssss = Numeric sample Id_
-
-     _rr = Resoulation level_
-
-     _vv = Two digits version code_
 
 
 <details>
