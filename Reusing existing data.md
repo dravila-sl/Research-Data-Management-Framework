@@ -9,42 +9,32 @@ With the increasing availability of data in reusable formats, existing data coll
 - **Accessibility and Licensing:** Verify the accessibility and licensing terms of the datasets to ensure they can be legally and ethically reused.
 - **Interoperability:** Assess the need for ETL (Extract, Transform, Load) processes to integrate OPEDAS with your existing data.
 - **Citation and Acknowledgment:** Understand how to properly cite and acknowledge the use of OPEDAS in your research.
-- **Collaboration with Data Owners:** Engage with OPEDAS owners to maximize the utility of their data and foster collaborative research efforts.
+- **Collaboration with Data Owners:** Consider how to actively involve OPEDAS owners in your research to make optimal use of their data.
 
 </details>
 
 <details>
   <summary><strong>Where is the Data Available?</strong></summary>
-
-- **Data Scope and Size:**
-  - Determine if you need the entire dataset or specific parts to manage storage and computational costs.
-  - Assess whether downloading the OPEDAS is necessary or if an API is available for access.
-
-- **Reuse Policies:**
-  - Review the licensing and citation policies to ensure compliance.
-  - Confirm that using the data does not impose restrictions on publishing or further usage of your results. If uncertain, contact the data owner for clarification.
-
-- **Data Integrity and Documentation:**
-  - Maintain the original data and metadata without alterations unless properly documented and annotated.
-  - Ensure that online data sources are reliable and will remain accessible under the same conditions.
-
-- **Data Provenance:**
-  - For non-authorized resources, download and store the data locally with comprehensive provenance documentation.
-  - Evaluate the performance implications of accessing data online versus locally.
+  
+- Determine if you need the entire dataset or specific parts to manage storage and computational costs.
+- Assess whether downloading the OPEDAS is necessary or if an API is available for access.
+- Review the licensing and citation policies to ensure compliance.
+- Confirm that using the data does not impose restrictions on publishing or further usage of your results. If uncertain, contact the data owner for clarification.
+- Maintain the original data and metadata without alterations unless properly documented and annotated.
+- Ensure that online data sources are reliable and will remain accessible under the same conditions.
+- For non-authorized resources, download and store the data locally with comprehensive provenance documentation.
+- Evaluate the performance implications of accessing data online versus locally.
 
 </details>
 
 <details>
   <summary><strong>Which Format to Use?</strong></summary>
 
-- **Data Formats:**
+Several datasets, and, in particular, reference data resources may be available in different formats. You need to be fully aware of the data formats used, the limitations of the format, the possible license restrictions, and thus how you may or may not be able to reuse these data.
+
   - Investigate the available data formats from selected OPEDAS sources.
   - Choose the format that best aligns with your analysis requirements.
-
-- **Format Availability:**
-  - If the desired format is unavailable, reach out to the resource owner to request data in that format.
-
-- **Awareness of Limitations:**
+  - If the desired format is unavailable, reach out to the resource owner to discuss whether the data can be made available in that format.
   - Be cognizant of the limitations and licensing restrictions associated with different data formats to ensure proper reuse.
 
 </details>
@@ -73,43 +63,26 @@ Reference data, defined as OPEDAS with a status as a reference dataset, are esse
 
 Some OPEDAS require explicit consent or assistance from the data owner for usage.
 
-- **Access Conditions:**
-  - Verify the conditions under which you can access the data.
-
-- **Ownership and Use Restrictions:**
-  - Understand any ownership and use restrictions, including limitations on commercial use.
-
-- **Purpose Explanation:**
-  - Clearly articulate why you intend to reuse the data and the purposes of your study.
-
-- **Communication:**
-  - Ensure that your explanation is appropriate for the data owner and confirm any implicit restrictions not detailed in the metadata.
-
-- **Data Availability Assurance:**
-  - Confirm with the owners how long the data will remain available in the same format and version.
+  - Check the conditions under which you can get access.
+  - Check ownership and use restrictions (e.g., commercial use).
+  - Prepare a clear explanation of why you want to reuse the data and for what purpose.
+  - Ensure the level of explanation fits the owner.
+  - Check verbally and/or in writing with the owner about potential restrictions that might not be explicit in the metadata of the OPEDAS.
+  - Double-check with the owners as to how long they intend or guarantee to keep the data available in the same format and version.
 
 </details>
 
 <details>
   <summary><strong>Is the Data Resource Versioned?</strong></summary>
 
-- **Versioning Policies:**
-  - Review the versioning policies of the OPEDAS source and understand the implications for your research.
-
-- **Version Selection:**
-  - Decide which version of the data to use and establish a plan for handling updates.
-
-- **Access to Versions:**
-  - Ensure continuous access to the chosen version, especially if the source does not freeze versions, by downloading, storing, and documenting it.
-
-- **Documentation:**
-  - Record and publish the specific versions used in your analyses.
-
-- **Updates Subscription:**
-  - Subscribe to updates from the resource to stay informed about any changes.
-
-- **Update Policy Clarification:**
-  - If no clear update policy exists, propose adding this information by contacting the resource owner or custodian.
+  - Check the versioning policies of the OPEDAS source and consider the consequences.
+  - Decide what version to use.
+  - Decide what you will do when updates are released.
+  - In case you always want to use a given version, make sure you will always have access to that version.
+    - This means that if the source does not freeze versions, you may have to download, store, and document the version you will use.
+  - Make sure you extensively record and publish which version you used in which analysis.
+  - If possible, subscribe to updates of the resource so that you will be aware of updates.
+  - If there is no clear update policy, contact the owner or custodian of the resource and propose adding information on the update policy.
 
 </details>
 
@@ -118,12 +91,8 @@ Some OPEDAS require explicit consent or assistance from the data owner for usage
 
 When OPEDAS are subject to informed consent rules, ensure that the consent covers the specific purpose of your study.
 
-- **Consensus Statements:**
-  - Review any consensus statements associated with the data.
-
-- **Legal Clarifications:**
-  - Proactively contact the data owner to clarify any legal issues regarding data reuse.
-
+  - Check the consensus statements associated with the data (if any).
+  - Contact the data owner actively when there is any doubt about the legal issues associated with the reuse of the data.
 </details>
 
 <details>
