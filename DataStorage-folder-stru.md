@@ -26,21 +26,40 @@ Project_B
 
 ## Recommended practices for folder structure
 
-1. Establish the system and stay consistently.
+1. Establish a folder system and stay consistent.
 
-2. Create folders based on file type, data or project stages.
+2. Create folders based on file type, data, or project stages.
    
-   _(i.e. Raw Data, Audio files, Imaging data, Lab Books, Methodologies, etc.)_
+   <blockquote>
+    <details>
+     <summary>Example</summary>
+     
+     _Raw Data, audio files, imaging data, methodologies, published data, etc._
+   
+    </details>
 
 3. How should files be organized in this folder?
    
-   _(i.e. by dates, by classifications, etc.)_
+   <blockquote>
+    <details>
+     <summary>Example</summary>
+     <pre>
+      byDate
+       |- 2021Aug
+       |- 2022May
+       |- 2023Jan     </pre>
+     <pre>
+      byClassification
+       |- Raw_data
+       |- Processed_data
+       |- External_source_data     </pre>
+    </details>
 
 4. Create a README file at the beginning and update it throughout the research.
 
-   It is not mandatory for each directory but recommanded for a higher level directory or a complex dataset.
+   This is not mandatory for each directory but recommended for a higher-level directory or a complex dataset.
 
-   For more details about README file, see [How to write a README file] (link to the readme-page)
+   For more details about README files, see [How to write a README file] (link to the readme-page)
 
 <details>
   <summary> <b>Example</b> </summary>
