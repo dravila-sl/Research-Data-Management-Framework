@@ -6,9 +6,9 @@ A file with an informative name improves efficiency for everyone.
 
  - You know what is in the file without opening it.
  
- - Your team members could easily find the file they need without asking you for details.
+ - Your team members could easily [find]() the file they need without asking you for details.
  
- - Your collaborators from another institute could easily identify the file and reuse them without waiting for your reply. 
+ - Your collaborators from another institute could easily identify the file and [reuse]() them without waiting for your reply. 
 
 For example, you have to open _"dataset3.csv"_ to know what is in the file. While you can visually understand what is in _"adverseEvent_hospital-05_20240501.csv"_ and use it. 
 <pre>
@@ -22,7 +22,7 @@ For example, you have to open _"dataset3.csv"_ to know what is in the file. Whil
 
 ### What to consider before establishing a naming convention?
 
-1. What distinct these files from other files? (Consider metadata like the content, date, location, etc.)
+1. What distinguish these files from other files? (Consider metadata like the content, date, location, etc.)
 
 2. Pick the three most important metadata. (It is not a "the more the merrier" situation)
 
@@ -76,7 +76,7 @@ For example, you have to open _"dataset3.csv"_ to know what is in the file. Whil
      <details>
        <summary>Example</summary>
        
-   _"tissuesample.csv" and "TissueSample.csv" are different files for the machine to load._
+   _"tissuesample.csv" and "TissueSample.csv" are different string for the machine._
 
      </details>
    </blockquote>
