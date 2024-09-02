@@ -115,4 +115,23 @@ When OPEDAS are subject to informed consent rules, ensure that the consent cover
 
 </details>
 
----
+## References
+
+- Mons, B. (2021). Data Stewardship for Open Science: Implementing Fair principles. Chapman & Hall/CRC
+
+## Intended Audience
+
+This page is intended for:
+
+- Researchers and data scientists involved in data-intensive research.
+- Data stewards and PIs responsible for managing research data.
+
+## Authors
+
+- **Names:** Ahmad Abu Dayeh
+- **Affiliation:** Universität zu Köln
+
+## Supplementary Reading
+
+- 
+
