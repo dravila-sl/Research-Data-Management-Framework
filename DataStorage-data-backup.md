@@ -1,37 +1,38 @@
-# Why do we need to backup the data?
+# Why do we need to back up data?
 
 Accidents happen every day. Having backups can protect you and your team against human errors, malicious attacks, hardware failure and natural disasters.
 
-### Document the data backup plan and identify the contact person
+### Develop a data backup plan and identify the contact person
 
-It could be a team member who responsible for the maintanance of backup or a research data management team. 
+It could be one of your team members or a research data management team who is responsible for backup maintenance. 
 
 They should be able to answer questions like:
 
-- How to backup the data?
+- How to back up data?
 
-- How often to backup the data? 
+- How often to back up data? 
 
-- Where are the backup stored?
+- Where is the backup stored?
 
 - How to access the backup if needed to recover the data?
 
->[!NOTE]
+>[!IMPORTANT]
 >Make sure the data can be recovered from the backup.
 >
 >Try it before you actually need it.
 
 
-### How many backups should we have? 
-An easy-to-follow rule is <b>3-2-1 Backup Rule</b> that always make sure your data have: 
+### How many backups should I have? 
+
+An easy-to-follow rule is <b>3-2-1 Backup Rule</b> that always makes sure your data have: 
 
   - <b>three</b> copies of data 
   
-  - copies were stored in <b>two</b> different forms
+  - stored in <b>two</b> different types of media
 
-  - <b>one</b> copy stored off-site
+  - keep <b>one</b> copy off-site
 
-For example, one original stored in a secure server, one copy in the personal laptop and one copy in a shared cloud folder.
+For example, one original data is stored in a secure server, one copy in a portable hard drive and one copy in a shared cloud folder.
 
 <details>
   <summary> <b>Reference</b> </summary>
