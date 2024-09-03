@@ -83,7 +83,7 @@ For example, you have to open _"dataset3.csv"_ to know what is in the file. Whil
    
 4. Avoid special characters in the file name.
 
-   Use dash <b>( - )</b> to seperate numbers and underscore <b>( _ )</b> to seperate metadata.
+   Use hyphen <b>( - )</b> to seperate numbers and underscore <b>( _ )</b> to seperate metadata.
 
    <blockquote>
      <details>
