@@ -2,13 +2,13 @@
 
 ### What is a README file?
 
-It provides a clear and concise description of the files in the folder and all relevant information that you at a later date or researchers from another institute could correctly interpret the files and enhance the reproducibility.
+It provides a clear and concise description of the files in the folder and all relevant information that you at a later date or researchers from another institute could correctly interpret the files and enhance the [reproducibility]().
 
 It is recommended to create the README file at the beginning of your research and regularly update it throughout the research.
 
 ### README file is created to answer various questions, for example:
 
- - Where to find a specific dataset?
+ - Where to [find]() a specific dataset?
  
  - Which file has been updated? What is the nature of the update?
  
@@ -18,7 +18,7 @@ It is recommended to create the README file at the beginning of your research an
 
 ### Where should I place the README file?
 
-It could be at a higher level directory, for example:
+It could be at a higher-level directory, for example:
 
 <pre>
  Project_A
@@ -29,9 +29,9 @@ It could be at a higher level directory, for example:
    |- Analysis
 </pre>
 
-In this README file, it could describe the content in each folder, objectives of the research, what is required for intepreting the data, who to contact for questions and so on.
+In this README file, it could describe the content in each folder, the research objectives, required information for the intepretation and [reuse]() of the data, who to contact for questions and so on.
 
-You could also create a README file for a lower level directory, for example:
+You could also create a README file for a lower-level directory, for example:
 
 <pre>
  Project_A
@@ -43,14 +43,14 @@ You could also create a README file for a lower level directory, for example:
    |   |   |- Dataset_2-2.csv
 </pre>
 
-In this README file, it could contain the naming convention, definition of symbols and codes in the dataset, list of variables, units for measurement, locations for data generation/collection, collabortors, who to contact for questions and so on. 
+This README file could contain the naming convention, definition of symbols and codes in the dataset, list of variables, units for measurement, locations for data generation/collection, collabortors, who to contact for questions and so on. 
 
 >[!NOTE]
 > Add details to the name, _e.g. README_rawData.txt, README_analysis.txt_
 
 ### Creating README file template
 
-The recommended minimum content for enhancing reproducibility is <mark>highlighted</mark>. 
+The recommended minimum content for enhancing [reproducibility]() is <mark>highlighted</mark>. 
 
 <details>
  <summary> <b>What can be included in a README file</b> </summary>
@@ -116,7 +116,7 @@ The recommended minimum content for enhancing reproducibility is <mark>highlight
 </blockquote>
 </details>
 
->[!NOTE]
+>[!IMPORTANT]
 >README file should be customized based on how your dataset look like and where you place the README file.
 
 <br></br>
