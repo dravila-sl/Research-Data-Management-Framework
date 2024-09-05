@@ -104,7 +104,7 @@ A well-structured project folder could improve efficiency in [finding]() a file 
    </blockquote>
 5. Create a README file at the beginning of your project and update it throughout the research.
 
-   This is not mandatory for each directory but recommended for a higher-level directory or a complex dataset.
+   This is not mandatory for each folder but recommended for a higher-level directory or a complex dataset.
 
    For more details about README files, see [How to write a README file] (link to the readme-page)
 
