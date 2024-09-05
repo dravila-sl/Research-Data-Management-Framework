@@ -1,20 +1,29 @@
-# How to write a README file
+>[!TIP]
+> FAIR indicator: <code>[Findable]()</code>, <code>[Reusable]()</code>
+> 
+> Project stage: <code>Beginning</code>  || Audience: <code>PI</code>, <code>Researcher</code>, <code>PhD</code>
+
+# How To Write A README File
 
 ### What is a README file?
 
 It provides a clear and concise description of the files in the folder and all relevant information that you at a later date or researchers from another institute could correctly interpret the files and enhance the [reproducibility]().
 
-It is recommended to create the README file at the beginning of your research and regularly update it throughout the research.
-
-### README file is created to answer various questions, for example:
+README file is created to answer various questions, for example:
 
  - Where to [find]() a specific dataset?
  
  - Which file has been updated? What is the nature of the update?
  
- - What is the file naming convention?
+ - What is the naming convention for this dataset?
  
  - Why is a certain practice/model applied?
+
+
+It is recommended to create the README file at the beginning of your research project and regularly update it throughout the research project.
+
+>[!IMPORTANT]
+>Check your READEME files before publishing the data. Make sure the information is correct and up-to-date.
 
 ### Where should I place the README file?
 
@@ -46,9 +55,13 @@ You could also create a README file for a lower-level directory, for example:
 This README file could contain the naming convention, definition of symbols and codes in the dataset, list of variables, units for measurement, locations for data generation/collection, collabortors, who to contact for questions and so on. 
 
 >[!NOTE]
-> Add details to the name, _e.g. README_rawData.txt, README_analysis.txt_
+> Add details to the name of README file, _e.g. README_rawData.txt, README_analysis.txt_
 
 ### Creating README file template
+
+For a project with various datasets, you could create a README template for each folder with different type of dataset. 
+
+Or your could use the template in different projects.
 
 The recommended minimum content for enhancing [reproducibility]() is <mark>highlighted</mark>. 
 
@@ -119,20 +132,35 @@ The recommended minimum content for enhancing [reproducibility]() is <mark>highl
 >[!IMPORTANT]
 >README file should be customized based on how your dataset look like and where you place the README file.
 
-<br></br>
-<details>
-  <summary> <b> Example and template </b> </summary>
+<blockquote>
+ <details>
+  <summary>Example_README file at project level</summary>
+ </details>
+</blockquote>
 
-(link to templates)
+<blockquote>
+ <details>
+  <summary>Example_README file at data level</summary>
+ </details>
+</blockquote>
 
-</details>
+### README file templates
 
-<details>
-  <summary> <b>References</b> </summary>
+(link to templates. One for project level, one for data level)
+
 <br>
-  This page organized knowledge and experiences from following resources:
 
+---
+
+
+  Authors: Yu-Ting Fu
+  
+  Last updated: 2024.09.05
+  
+  Reference list:
+  
   1. [HMS RDM - 2024 Webinar - Closing Out Your Research: Managing Data Transfer Between Collaborators](https://www.youtube.com/watch?v=JZNShVSS7Jc)
+ 
   
   2. [HMS RDM - 2024 Webinar - Achieving FAIR Data: Selecting a Repository for Your Data](https://www.youtube.com/watch?v=vIWrRnbU3Jo)
   
@@ -140,4 +168,3 @@ The recommended minimum content for enhancing [reproducibility]() is <mark>highl
 
   4. [HMS RDM - Data Documentation: Writing Better READMEs](https://www.youtube.com/watch?v=M-tVCFhHtEg&list=PLWIsV2soJK-VaW7IhxYyyOwiamjVV_FuB&index=16)
 
-</details>
