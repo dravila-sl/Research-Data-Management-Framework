@@ -23,6 +23,11 @@
  </details>
 </blockquote>
 
+OR
+
+ContentContentContent. (_brief examples placed in brackets after a sentence and in italic_)
+
+
 ### Visual example (if any)
 <pre>
  example-folder
@@ -54,6 +59,7 @@ TIP is reserved for heading.
   Reference:
   Helpful links:
 </pre>
+> cannot place link in this block 
 
 OR
 
@@ -68,6 +74,7 @@ Reference:
 Helpful links:
 
 </blockquote>
+>see the page for "folder structure"
 
 OR 
 
