@@ -1,6 +1,11 @@
-## Why should we structure the directory?
+>[!TIP]
+> FAIR indicator: <code>[Findable]()</code>
+> 
+> Project stage: <code>Beginning</code>  || Audience: <code>All</code>
 
-Which following project directory would you like to see?
+## Why Should We Structure The Folder?
+
+Which following project folder would you like to see?
 
 <pre>
 Project_A
@@ -23,39 +28,81 @@ Project_B
  |- plot_data6.rdata
 </pre>
 
+You have various files and types of dataset for your project and their number increases over time. It may not be a good idea to simply place all files and datasets under your project folder (as in Project_B). 
 
-## Recommended practices for folder structure
+A well-structured project folder could improve efficiency in [finding]() a file among hundrads of files.
+
+## Recommended practices
 
 1. Establish a folder system and stay consistent.
 
-2. Create folders based on file type, data, or project stages.
-   
-   <blockquote>
+2. At higher-level directory, create folders based on file type, data, or project stages.
+ 
+ <blockquote>
     <details>
      <summary>Example</summary>
+     <pre>
+      Project_A
+       |- 1 Raw Data
+       |- 2 Processed Data
+       |- 3 Analysis
+     </pre>
+          <pre>
+      Project_B
+       |- 1 Audio Files
+       |- 2 Imaging Data
+       |- 3 Other Data
+     </pre>
+    <pre>
+      Project_C
+       |- 1 Data
+       |- 2 Shared Data_Institute A
+       |- 3 Published
+     </pre>
+    </details>
+     </blockquote>
      
-     _Raw Data, audio files, imaging data, methodologies, published data, etc._
+3. For lower-level directory, consider how files should be organized in this folder.
    
-    </details>
-
-3. How should files be organized in this folder?
-   
+ <blockquote>
+ <details>
+  <summary>Example_by date</summary>
+  
+  _In "Raw_Data" folder, files are organized by collection date._
+  
+   <pre>
+    Raw_Data 
+       |- 2021Aug
+       |  |- rawData1.csv
+       |  |- rawData2.csv
+       | 
+       |- 2021Dec
+       |  |- rawData1.csv
+       |  |- rawData2.csv 
+     </pre>
+ </details>
+</blockquote>
+  
    <blockquote>
     <details>
-     <summary>Example</summary>
+     <summary>Example_by stage</summary>
+     
+   _In "Data" folder, files are organized by their stage._
+   
      <pre>
-      byDate
-       |- 2021Aug
-       |- 2022May
-       |- 2023Jan     </pre>
-     <pre>
-      byClassification
+      Data
        |- Raw_data
+       |  |- rawData_2021Aug.csv
+       |  |- rawData_2021Sep.csv
+       |  |- rawData_2021Oct.csv
+       |
        |- Processed_data
-       |- External_source_data     </pre>
+       |  |- data_processed_2021Dec.csv
+       |  |- data_processed_2022Feb.csv
+     </pre>
     </details>
-
-4. Create a README file at the beginning and update it throughout the research.
+   </blockquote>
+5. Create a README file at the beginning of your project and update it throughout the research.
 
    This is not mandatory for each directory but recommended for a higher-level directory or a complex dataset.
 
@@ -101,13 +148,19 @@ Project_A
 </pre>
 </details>
 
-<details>
-  <summary> <b>References</b> </summary>
 <br>
-  This page organized knowledge and experiences from following resources:
 
+
+<blockquote>
+  
+ Authors: Yu-Ting Fu
+ 
+ Last updated: 2024.09.05
+ 
+ References:
+ 
   1. [HMS RDM 2024 Webinar - I've generated Data, Now What? The When, Where, and How of Data Storage](https://www.youtube.com/watch?v=prtBCHQ2c50&list=PLWIsV2soJK-VaW7IhxYyyOwiamjVV_FuB&index=4)
   
   2. [HMS RDM - File Organization](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
 
-</details>
+</blockquote>
