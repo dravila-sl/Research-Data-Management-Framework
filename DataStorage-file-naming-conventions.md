@@ -1,3 +1,8 @@
+>[!TIP]
+> FAIR indicator: <code>[Findable]()</code>, <code>[Reuseable]()</code>
+> 
+> Project stage: <code>Beginning</code>  || Audience: <code>All</code>
+
 # File Naming Conventions
 
 ### Why do we need conventions for file names?
@@ -145,33 +150,30 @@ For example, you have to open _"dataset3.csv"_ to know what is in the file. Whil
    </details>    
    </blockquote>   
 
-<details>
-<summary> <b> How to decide the order of metadata in the name?</b> </summary>
+### How to decide the order of metadata in the name?
   
 1. Place the most important metadata at the beginning.
 
-2. How would you like to sort the files? _(i.e. alphabetically, numerically or chronologically)_
+2. Consider this: how would you like to sort the files? _(i.e. alphabetically, numerically or chronologically)_
 
-</details>
-
-<details>
-<summary> <b> How to track the change of files?</b> </summary>
+### How to track the change of files?
   
-1. Add version information. Could be number (_i.e. v1.2, v3.0_) or status (_i.e. \_processed, \_amended, \_raw_).
+1. Add version information. Could be number (_e.g. v1.2, v3.0_) or status (_e.g. \_processed, \_amended, \_raw_).
 
 2. Add a date. Make sure the format of date is consistent. (_i.e. using YYYYMMDD or YYYY-MM-DD_)
 
-</details>
-
-
-
-<details>
-  <summary> <b>References</b> </summary>
 <br>
-  This page organized knowledge and experiences from following resources:
+
+---
+### Authors
+Yu-Ting Fu
+
+### Last updated
+2024.09.05
+
+### References
 
   1. [HMS RDM 2020 Workshop - How to name a file](https://www.youtube.com/watch?v=WKViHPvBo_Y&list=PLWIsV2soJK-VaW7IhxYyyOwiamjVV_FuB&index=87)
   
   2. [CDS - File Management](https://data.research.cornell.edu/data-management/storing-and-managing/file-management/)
 
-</details>
