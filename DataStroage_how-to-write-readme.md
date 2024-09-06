@@ -138,7 +138,7 @@ The recommended minimum content for enhancing [reproducibility]() is <mark>highl
 
 ### README file templates
 
-[Template - Project-level README file]()
+[Template - Project-level README file](readme-project-level-template.html)
 
 [Template - Data-level README file](readme-data-level-template.html)
 
@@ -149,7 +149,7 @@ The recommended minimum content for enhancing [reproducibility]() is <mark>highl
 
   Authors: Yu-Ting Fu
   
-  Last updated: 2024.09.05
+  Last updated: 2024.09.06
   
   Reference list:
   
