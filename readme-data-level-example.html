@@ -1,0 +1,87 @@
+This README file was generated on 3210-01-23 by Morty Smith
+
+--------------------
+GENERAL INFORMATION
+--------------------
+1. Dataset title:
+    Vital Sign
+
+2. List of contact regarding the dataset:  
+
+    - Name: Richard Sanchez
+    - Institute: Futurama Hospital
+    - ORCID: 9999-0000-1111-8888
+    - E-Mail: r.sanchez@futurama.com
+
+    - Name: Beth Smith
+    - Institute: Futurama Hospital
+    - ORCID: 9999-0000-1111-5555
+    - E-Mail: j.smith@futurama.com
+
+3. Description: 
+    The dataset contains vital signs (blood pressure, pulse rate, respiration rate, body temperature) taken from patients registered at Futurama Hospital.
+
+----------------------
+FILE NAMING CONVENTION
+----------------------
+The vital sign dataset is named aa_bb_dddd-dd.csv where:
+
+aa = two-digits code for vital sign
+     bp: blood pressure
+     pr: pulse rate
+     rr: respiration rate
+     bt: body temperature
+
+bb = the hospital unit where the vital sign was taken
+     code for hospital unit: see file "hospital_unit_code.pdf"
+
+dddd-dd = date of receiving this dataset
+          format as YYYY-MM
+
+----------------
+DATA INFORMATION
+----------------
+1. Date of data collection: 
+    from 3200-01-01 to 3209-12-31
+
+2. Methods used for data collection/generation: 
+   Collected at hospital by medical personal
+
+3. Software or instrument specifics: 
+    Blood pressure: blood pressure monitor ABC-321
+    Pulse rate: finger pulsoximeter XYZ-999
+    Respiration rate: respirometer QWE-2
+    Body temperature: scan thermometer ZUI-657
+
+4. List of variables:
+
+-------------------------------------------------
+Variable                   The variable indicates 
+-------------------------------------------------
+bplv                        blood pressure
+
+bplvu                       unit for blook pressure
+                            code definition: see file "unit_code_definition.pdf"
+
+bplvrl                      relevence to the medication
+                            1= Yes, 0 = No
+
+bpdtc                       date and time of data collection
+                            format: YYYY-MM-DD THH:MM
+
+5. Codes or symbols used to record missing data: 
+    999 = missing value with no reason 
+    979 = missing value with reason
+
+6. Geographic location of collection: 
+    Futurama Hospital
+
+-----------------------
+DATA RE-USE INFORMATION
+-----------------------
+1. Use restrictions: 
+    see the License Agreement for use restrictions.
+    www.notrealrepo/license-agreement.html
+
+2. Link to data repository or a public accessbile location of the dataset: 
+    www.notrealrepo.com/notreallink/654
