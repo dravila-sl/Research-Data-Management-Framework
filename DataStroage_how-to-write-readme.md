@@ -132,21 +132,15 @@ The recommended minimum content for enhancing [reproducibility]() is <mark>highl
 >[!IMPORTANT]
 >README file should be customized based on how your dataset look like and where you place the README file.
 
-<blockquote>
- <details>
-  <summary>Example_README file at project level</summary>
- </details>
-</blockquote>
+[Example - Project-level README file]()
 
-<blockquote>
- <details>
-  <summary>Example_README file at data level</summary>
- </details>
-</blockquote>
+[Example - Data-level README file](readme-data-level-example.html)
 
 ### README file templates
 
-(link to templates. One for project level, one for data level)
+[Template - Project-level README file]()
+
+[Template - Data-level README file](readme-data-level-template.html)
 
 <br>
 
