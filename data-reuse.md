@@ -17,6 +17,8 @@ Effective research data management is critical when reusing data from other sour
 7. [Harmonizing Data Sources](#harmonizing-data-sources)
 8. [Best Practices for Reusing Data](#best-practices-for-reusing-data)
 
+---
+
 ### What is data reuse?
 
 Before starting your project, it's worth checking if the data you need is already available. In recent years, there has been a rapid growth in data produced by researchers, governments, non-profits, and industries. Rather than generating new datasets, you might benefit from reusing existing ones.
