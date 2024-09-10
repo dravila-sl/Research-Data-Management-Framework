@@ -57,11 +57,11 @@ TIP is reserved for heading.
 #### Authors
 
 #### License
+This page is marked with [[License number and link]()]
 
 #### Last updated
 
-#### Reference
+#### References
 
 #### Helpful links
 
-(see the page for "file naming convnetoin" and "back up plan")
