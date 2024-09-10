@@ -5,6 +5,8 @@
 
 # Reusing Existing Data
 
+Effective research data management is critical when reusing data from other sources. The following considerations will help ensure that the data is handled responsibly and effectively, leading to reproducible and credible research outcomes.
+
 ## Table of Contents
 1. [What is data reuse?](#what-is-data-reuse)
 2. [Where can I find existing data to reuse?](#where-can-i-find-existing-data-to-reuse)
