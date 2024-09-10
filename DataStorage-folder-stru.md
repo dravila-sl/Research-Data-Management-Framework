@@ -108,8 +108,9 @@ A well-structured project folder could improve efficiency in [finding]() a file 
 
    For more details about README files, see [How to write a README file] (link to the readme-page)
 
+<blockquote>
 <details>
-  <summary> <b>Example</b> </summary>
+  <summary> <b>Example Project folder structure</b> </summary>
 <pre>
 Project_A
  |
@@ -147,20 +148,25 @@ Project_A
    
 </pre>
 </details>
+</blockquote>
 
 <br>
 
 
-<blockquote>
+ ---
   
- Authors: Yu-Ting Fu
+ #### Authors
+ Yu-Ting Fu
+
+ #### License
+ This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
  
- Last updated: 2024.09.05
+ #### Last updated
+ 2024.09.05
  
- References:
+ #### References
  
   1. [HMS RDM 2024 Webinar - I've generated Data, Now What? The When, Where, and How of Data Storage](https://www.youtube.com/watch?v=prtBCHQ2c50&list=PLWIsV2soJK-VaW7IhxYyyOwiamjVV_FuB&index=4)
   
   2. [HMS RDM - File Organization](https://datamanagement.hms.harvard.edu/plan-design/directory-structure)
 
-</blockquote>
