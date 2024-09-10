@@ -5,6 +5,16 @@
 
 # Reusing Existing Data
 
+## Table of Contents
+1. [What is data reuse?](#what-is-data-reuse)
+2. [Where can I find existing data to reuse?](#where-can-i-find-existing-data-to-reuse)
+3. [Legal Considerations for Data Reuse](#legal-considerations-for-data-reuse)
+4. [Assessing the Quality of Data Archives](#assessing-the-quality-of-data-archives)
+5. [Getting to know the data](#getting-to-know-the-data)
+6. [Data Resource Versioning](#data-resource-versioning)
+7. [Harmonizing Data Sources](#harmonizing-data-sources)
+8. [Best Practices for Reusing Data](#best-practices-for-reusing-data)
+
 ### What is data reuse?
 
 Before starting your project, it's worth checking if the data you need is already available. In recent years, there has been a rapid growth in data produced by researchers, governments, non-profits, and industries. Rather than generating new datasets, you might benefit from reusing existing ones.
