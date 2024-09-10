@@ -15,10 +15,10 @@ Data reuse refers to utilizing data for purposes beyond its original intent. Thi
 
 Data that is well-documented, curated, and shared with clear usage guidelines is more likely to be reused. Combining it with other datasets can unlock new, unforeseen insights and applications.
 
->[!IMPORTANT]
->When planning to use data collected by others, there are several key factors to consider. It’s crucial to understand the data’s scope and limitations, such as when it was collected and whether it can effectively address your research question. Additionally, check if the metadata (information that describes the dataset) provides enough detail to help you assess its suitability. Equally important is reviewing the data’s licensing terms to ensure you have the necessary permissions to use and share it in line with your objectives.
->The optimal use and reuse of archived data can only be achieved when its accessibility and reusability are guaranteed. The FAIR data principles provide a framework for ensuring that research data is genuinely open and ready for reuse.
+> **Important:**
+When planning to use data collected by others, there are several key factors to consider. It’s crucial to understand the data’s scope and limitations, such as when it was collected and whether it can effectively address your research question. Additionally, check if the metadata (information that describes the dataset) provides enough detail to help you assess its suitability. Equally important is reviewing the data’s licensing terms to ensure you have the necessary permissions to use and share it in line with your objectives. The optimal use and reuse of archived data can only be achieved when its accessibility and reusability are guaranteed. The FAIR data principles provide a framework for ensuring that research data is genuinely open and ready for reuse.
 
+---
 
 ### Where can I find existing data to reuse?
 
@@ -33,8 +33,10 @@ Examples:
 - EU Open Data Portal: Offers a wide range of data, including geographic, geopolitical, financial, statistical, electoral, legal, crime, health, environmental, transport, and scientific research data.
 - DataCite Metadata Search: Provides a large index of research data by gathering metadata for each DOI. You can use it to find datasets, get statistics, and explore connections.
 <details>
+<details>
   <summary><strong>Data journals</strong></summary>
 Journals such as Scientific Data provide peer-reviewed descriptions of datasets with significant reuse potential.
+<details>
 <details>
   <summary><strong>Within research articles</strong></summary>
 Publishers are pushing authors to include information on how to access the data behind their research. So, when you’re looking through journal articles or other literature, you might find links and DOIs (digital object identifiers) that show you how to get and use the data from the article itself. These datasets can be found in supplementary materials sections or within the aforementioned data repositories associated with the journal.
@@ -43,8 +45,10 @@ Publishers are pushing authors to include information on how to access the data 
   <summary><strong>Government and public data sources</strong></summary>
 Government websites such as Data.gov (UK, USA, Australia), Data.gouv (France), and govdata.de (Germany) provide extensive public datasets from their respective countries.
 <details>
+<details>
   <summary><strong>Contacting Authors</strong></summary>
 If you find a research paper without a description of where to find the data of interest, you may contact the authors to ask about accessing the underlying datasets.
+<details>
 <details>
   <summary><strong>External organizations</strong></summary>
 If you are obtaining existing data, that are not publicly available, from an external organization (e.g. hospital), a data agreement needs to be put in place. Contact your supervisor/data steward.
