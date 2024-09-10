@@ -45,9 +45,12 @@ For example, one original data is stored in a secure server, one copy in a porta
 #### Authors
 Yu-Ting Fu
 
+#### License
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
+
 #### Last updated
 2024.09.10
 
-#### Reference
+#### References
 
   [What is the 3-2-1 backup rule?](https://www.veeam.com/blog/321-backup-rule.html)
