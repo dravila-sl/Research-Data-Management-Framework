@@ -53,36 +53,10 @@ TIP is reserved for heading.
 
 ### Information placed at the end of page
 
-<pre>
-  Authors:
-  Last updated:
-  Reference:
-  Helpful links:
-</pre>
-
-(cannot place link in this block)
-
-OR
-
-<blockquote>
-  
-Authors:
-
-Last updated:
-
-Reference:
-
-Helpful links:
-
-</blockquote>
-
-(see the page for "folder structure")
-
-
-OR 
-
 ---
 #### Authors
+
+#### License
 
 #### Last updated
 
