@@ -59,7 +59,8 @@ TIP is reserved for heading.
   Reference:
   Helpful links:
 </pre>
-> cannot place link in this block 
+
+(cannot place link in this block)
 
 OR
 
@@ -74,16 +75,19 @@ Reference:
 Helpful links:
 
 </blockquote>
->see the page for "folder structure"
+
+(see the page for "folder structure")
+
 
 OR 
 
 ---
-### Authors
+#### Authors
 
-### Last updated
+#### Last updated
 
-### Reference
+#### Reference
 
-### Helpful links
->see the page for "file naming convnetoin"
+#### Helpful links
+
+(see the page for "file naming convnetoin" and "back up plan")
