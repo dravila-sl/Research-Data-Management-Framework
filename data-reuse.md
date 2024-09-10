@@ -13,7 +13,7 @@ Data reuse refers to utilizing data for purposes beyond its original intent. Thi
 
 Data that is well-documented, curated, and shared with clear usage guidelines is more likely to be reused. Combining it with other datasets can unlock new, unforeseen insights and applications.
 
-> **Important:**
+> [!Important]
 > When planning to use data collected by others, there are several key factors to consider. It’s crucial to understand the data’s scope and limitations, such as when it was collected and whether it can effectively address your research question. Additionally, check if the metadata (information that describes the dataset) provides enough detail to help you assess its suitability. Equally important is reviewing the data’s licensing terms to ensure you have the necessary permissions to use and share it in line with your objectives. The optimal use and reuse of archived data can only be achieved when its accessibility and reusability are guaranteed. The FAIR data principles provide a framework for ensuring that research data is genuinely open and ready for reuse.
 
 ---
