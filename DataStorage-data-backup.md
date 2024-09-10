@@ -1,4 +1,9 @@
-# Why do we need to back up data?
+>[!TIP]
+> FAIR indicator: <code>None</code>
+> 
+> Project stage: <code>Beginning</code>  || Audience: <code>All</code>
+
+# Why Do We Need To Back Up Data?
 
 Accidents happen every day. Having backups can protect you and your team against human errors, malicious attacks, hardware failure and natural disasters.
 
@@ -34,11 +39,15 @@ An easy-to-follow rule is <b>3-2-1 Backup Rule</b> that always makes sure your d
 
 For example, one original data is stored in a secure server, one copy in a portable hard drive and one copy in a shared cloud folder.
 
-<details>
-  <summary> <b>Reference</b> </summary>
 <br>
-  For more details about 3-2-1 Backup rule:
+
+---
+#### Authors
+Yu-Ting Fu
+
+#### Last updated
+2024.09.10
+
+#### Reference
 
   [What is the 3-2-1 backup rule?](https://www.veeam.com/blog/321-backup-rule.html)
-  
-</details>
