@@ -147,11 +147,16 @@ The recommended minimum content for enhancing [reproducibility]() is <mark>highl
 ---
 
 
-  Authors: Yu-Ting Fu
+  #### Authors
+  Yu-Ting Fu
+
+  #### License
+  This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
   
-  Last updated: 2024.09.06
+  #### Last updated 
+  2024.09.06
   
-  Reference list:
+  #### References:
   
   1. [HMS RDM - 2024 Webinar - Closing Out Your Research: Managing Data Transfer Between Collaborators](https://www.youtube.com/watch?v=JZNShVSS7Jc)
  
