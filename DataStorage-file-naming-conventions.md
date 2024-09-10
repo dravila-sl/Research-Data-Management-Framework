@@ -168,6 +168,10 @@ For example, you have to open _"dataset3.csv"_ to know what is in the file. Whil
 #### Authors
 Yu-Ting Fu
 
+#### License
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
+
+
 #### Last updated
 2024.09.05
 
