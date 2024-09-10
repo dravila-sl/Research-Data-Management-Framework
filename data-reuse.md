@@ -18,6 +18,7 @@ Data that is well-documented, curated, and shared with clear usage guidelines is
 > - The data’s scope and limitations, such as when it was collected and whether it can effectively address your research question.
 > - Check if the metadata (information that describes the dataset) provides enough detail to help you assess its suitability.
 > - Review the data’s licensing terms to ensure you have the necessary permissions to use and share it in line with your objectives.
+>
 > The optimal use and reuse of archived data can only be achieved when its accessibility and reusability are guaranteed. The FAIR data principles provide a framework for ensuring that research data is genuinely open and ready for reuse.
 
 ---
