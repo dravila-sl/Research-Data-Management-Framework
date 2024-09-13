@@ -55,13 +55,16 @@ TIP is reserved for heading.
 
 ---
 #### Authors
+Names
 
 #### License
 This page is marked with [[License number and link]()]
 
 #### Last updated
+For major updates of content. Minor updates like fixing grammar or spelling etc. do not count. 
 
 #### References
+Citation and link(if any)
 
 #### Helpful links
 
