@@ -7,6 +7,16 @@
 
 Effective research data management is critical when reusing data from other sources. The following considerations will help ensure that the data is handled responsibly and effectively, leading to reproducible and credible research outcomes.
 
+1. **Check Data Sources**: Use reliable, trusted repositories with clear licensing policies. Make sure the quality of the data is sufficient for your research undertaking.
+2. **Metadata Matters**: Ensure datasets are accompanied by sufficient metadata to understand the data structure and collection context.
+3. **Data Standards and Formats**: Understand the data formats and standards used, and determine if conversion or ETL processes are necessary for integration into your workflow.
+4. **Document Your Work**: Add relevant metadata to how you modified the data
+5. **Keep Track of Versions**: Always document the dataset version and track updates. Consider the need to store a local copy to ensure long-term access to the same version.
+6. **Legal and Ethical Compliance**: Verify consent and licensing, especially when working with sensitive data.
+7. **Cite Properly**: Follow citation guidelines to ensure proper credit is given to data providers.
+
+---
+
 ## Table of Contents
 1. [What is data reuse?](#what-is-data-reuse)
 2. [Where can I find existing data to reuse?](#where-can-i-find-existing-data-to-reuse)
@@ -156,18 +166,6 @@ When reusing data from multiple sources, it’s important to ensure consistency 
 
 > [!NOTE]
 > Compliance with License Agreements: Some data licenses require that any modifications or derivatives be communicated to the original data provider. This ensures that the data owner is aware of how their data is being used and modified.
-
----
-
-### Best Practices for Reusing Data
-
-1. **Check Data Sources**: Use reliable, trusted repositories with clear licensing policies. Make sure the quality of the data is sufficient for your research undertaking.
-2. **Metadata Matters**: Ensure datasets are accompanied by sufficient metadata to understand the data structure and collection context.
-3. **Data Standards and Formats**: Understand the data formats and standards used, and determine if conversion or ETL processes are necessary for integration into your workflow.
-4. **Document Your Work**: Add relevant metadata to how you modified the data
-5. **Keep Track of Versions**: Always document the dataset version and track updates. Consider the need to store a local copy to ensure long-term access to the same version.
-6. **Legal and Ethical Compliance**: Verify consent and licensing, especially when working with sensitive data.
-7. **Cite Properly**: Follow citation guidelines to ensure proper credit is given to data providers.
 
 ---
 
