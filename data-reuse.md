@@ -1,5 +1,5 @@
 >[!TIP]
-> FAIR indicator: <code>[Findable]()</code>, <code>[Accessable]()</code>, <code>[Interoperable]()</code>, <code>[Reusable]()</code>
+> FAIR indicator: <code>[Reusable]()</code>
 > 
 > Project stage: <code>Beginning</code>  || Audience: <code>PI</code>, <code>Researcher</code>, <code>PhD</code>
 
@@ -25,7 +25,6 @@ Effective research data management is critical when reusing data from other sour
 5. [Getting to know the data](#getting-to-know-the-data)
 6. [Data Resource Versioning](#data-resource-versioning)
 7. [Harmonizing Data Sources](#harmonizing-data-sources)
-8. [Best Practices for Reusing Data](#best-practices-for-reusing-data)
 
 ---
 
