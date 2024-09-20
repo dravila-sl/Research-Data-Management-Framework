@@ -7,65 +7,103 @@
 
 Generally data repository is a storage place for data. A key aspect of FAIR prinicples is to ensure your reseach data remains [findable]() and [accessible]() long after the research project completes. It is also a good scientific practice to store the research data for at least ten years ([DFG Code of Conduct 3.17](https://zenodo.org/records/6472827#.ZD-taYTP02w)).
 
-### What could your research project benefit from using data repository?
+### What can your research project benefit from using data repository?
 
-Data repository could be the cloud storage for your research data (link to back up data) or:
+Data repository can be more than a cloud storage for your research data (link to back up data). Based on various features that the data repository provides, you can:
 
-- organizing and managing data
-- searching for other's data (link to referece data, reuse data)
-- sharing data with collaborators from another site
-- publishing data
-- archiving data (link to archiving data) <!--further provide repo for archiving data and things to be aware of etc-->
+- organize and manage your research data
+- search for other's research data (link to referece data, reuse data)
+- share data with the community and inspire other researches
+- increase the visibility of your research
+- publish your research
+- archive your research data for long-term (link to archiving data) <!--further provide repo for archiving data and things to be aware of etc-->
 
 ### How to choose a data repository?
 
 To choose a data repository at the planning phase of research project can be challenging.
 
-You can first check the resources provided by your institution ([Data storage and share by University of Cologne](https://rrzk.uni-koeln.de/daten-speichern-teilen)). This could give you a general idea of how your fellow researchers manage their research data. 
+You can first check the resources provided by your institute ([Data storage and share by University of Cologne](https://rrzk.uni-koeln.de/daten-speichern-teilen)). This could give you a general idea of how your fellow researchers manage their research data. 
 
 You can also consider following aspects before looking for a data repository:
 
-1. <b>Purpose</b>: To figure out which data repository to choose, it's best to first know what you need. As mentioned eariler, you could use a data repositpory for publishing, storage, colloborate with external partners, organizing data, etc. Depends on your needs and the scope of research, you may use more than one data repository to satisfy different purposes. 
+1. <b>Purpose</b>: To figure out which data repository to choose, it's best to first know what you need. As mentioned earlier, you can use a data repository to publish, store, organize data, etc. Depending on your needs and the scope of research, you can use more than one data repository to serve different purposes.
 
-2. <b>Cost</b>: Is there a budget for data repository? If yes, for how long? Some funding only provides budget during the research period. For the long-term storage of research data, free data repository to archive your research data after research completes may be a good choice. 
+2. <b>Cost</b>: Is there a budget for data repository? If yes, for how long? For some funding, the budget is only made available during the research period. For long-term storage of research data, a free data repository to archive your research data after research is completed can be a good choice.
 
-3. <b>File size</b>: Data repository usually have clear policy for total file size as well as single file size per upload. If you don't have an estimate file size of your reserach, ask your PI or others who has done similiar research for reference. 
+3. <b>File size</b>: Data repositories typically have clear guideline for overall file size and individual file size per upload. If you don't have an estimated file size of your research, ask your PI or others who have done similar research for reference. 
 
-4. <b>File type</b>: Data repository could have constriants of file types. Check the documentation of the dataset output file type, software setting or ask IT to know what types of file would be generated from your research.  
+4. <b>File type</b>: The data repository might only allow certain file types to be uploaded. Review documentation of dataset output file type and software settings or ask PI what file types would be generated from your research.
 
-5. <b>Access control</b>: Should your research data be public or restricted access? Depends on the funding requirement or policy of your institution, you may be obligated to set open access to your reserch data. Beware that some data repository has open access as default. 
+5. <b>Access control</b>: Should your research data be public or only accessible to a limited extent? Depending on your funding requirements or the policy of your institute, you may be required to have open access to your research data. Note that some data repositories have open access by default. 
 
 Other features of the repository that may be helpful for your research include version control, uploading a folder, syncing with your desktop, etc.
 
 >[!NOTE] 
->Try different functions of the data repository interface to ensure it fits your needs and use preference.
+>Try out different features of the data repository interface to ensure it meets your needs and preferences.
 
 ### Comparison of data repository (EU based)
 
-Following data repository are compared via their cost, file size limit, file type, access control, open access as default, management of respository, fit for what purpose and who can use.
+The following data repositories are compared based on their cost, file size limit, file type limit, access control, open access by default, management or funding source of the repository, suitability for what purpose, and who can use it.
 
 <details>
   <summary><b>sciebo</b></summary>
   
+  1. Cost: Free
+  2. File size limit: Personal space up to 500GB. Project box up to 2 TB.
+  3. File type limit: No
+  4. Has access control: You can decide share the data to whom.
+  5. Is open access by default: No
+  6. Management or funding source of the repository: Funded by NRW ministry of culture and science.
+  7. Suitable for: Data organization, project collaboration, cloud storage.  
+  8. Who can use it: Person associated with NRW institutes. A guest account can be created via an existing user.
+
+     [Link to sciebo](https://hochschulcloud.nrw/)
 </details>
 
 <details>
   <summary><b>GIN</b></summary>
-  
+
+  1. Cost: Free
+  2. File size limit: 10 GB per file for up to 100 files in personal space.
+  3. File type limit: No
+  4. Has access control: You can set it to private and share access to your team mate.
+  5. Is open access by default: No
+  6. Management or funding source of the repository: Funded by BMBF (Grant 01GQ1302) and the Bernstein Center Munich. Managed by LMU.
+  7. Suitable for: 
+  8. Who can use it: Anyone can register. An SSH key is required to upload.
+
+     [Link to GIN](https://gin.g-node.org/)  
 </details>
 
 <details>
-  <summary><b>gigaMove (not sure if this could be a legit repository)</b></summary>
-  
+  <summary><b>gigaMove</b></summary>
+
+  1. Cost: Free
+  2. File size limit: The personal account can store up to 1 TB in total and up to 100 GB per file. 
+  3. File type limit: No
+  4. Has access control: Only users with a link can download the file. The link can be protected with a password.
+  5. Is open access by default: No
+  6. Management or funding source of the repository: Managed by RWTH.
+  7. Suitable for:
+  8. Who can use it: Person from one of the DFN organizations.
+
+     [Link to gigaMove](https://gigamove.rwth-aachen.de/en)
+    
 </details>
 
 <details>
   <summary><b>ZENODO</b></summary>
-  
-</details>
 
-<details>
-  <summary><b>cernBox</b></summary>
+  1. Cost: Free
+  2. File size limit: Up to 50 GB in total. The limit can be lifted by request. 
+  3. File type limit: No
+  4. Has access control: 
+  5. Is open access by default: 
+  6. Management or funding source of the repository: managed by CERN.
+  7. Suitable for: 
+  8. Who can use it: Anyone
+
+     [Link to ZENODO](https://zenodo.org/)
   
 </details>
 
