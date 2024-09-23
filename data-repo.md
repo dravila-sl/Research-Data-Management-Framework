@@ -5,7 +5,7 @@
 
 # Data Repository
 
-In generally, data repository is a storage place for data. Storing research data during research is just as important as storing data after research is completed. It is recommanded by [DFG](https://zenodo.org/records/6472827#.ZD-taYTP02w) as a good scientific practice to store the research data for at least ten years. Additionally, a key aspect of FAIR prinicples is to ensure that your reseach data remains [findable]() and [accessible]() long after the research project is completed. 
+In general, data repository is a storage place for data. Storing research data during research is just as important as storing data after research is completed. It is recommanded by [DFG](https://zenodo.org/records/6472827#.ZD-taYTP02w) as a good scientific practice to store the research data for at least ten years. Additionally, a key aspect of FAIR prinicples is to ensure that your reseach data remains [findable]() and [accessible]() long after the research project is completed. 
 
 ### What can your research project benefit from using data repository?
 
