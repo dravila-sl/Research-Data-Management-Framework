@@ -116,16 +116,6 @@ For example, [Science Europe](https://www.scienceeurope.org/our-priorities/open-
 
 ---
 
-### Getting to know the data
-
-To effectively use data, it's crucial to:
-
-- **Review Documentation**: Examine the documentation that includes collection methods, data cleaning processes, and technical details like study descriptions (metadata), user guides, codebooks, or data dictionaries.
-- **Familiarize Yourself with the Data**: Thoroughly understand the data to assess its relevance and suitability for your research.
-- **Assess Data Suitability**: Evaluate whether the data is appropriate for your research needs and objectives.
-
----
-
 ### Choosing the right tool for writing your DMP
 
 When it comes to drafting a DMP, you have the option to write it offline using a downloaded template in a text document format. However, numerous web-based DMP tools can significantly streamline this process. These tools often include various DMP templates and provide guidance for interpreting and answering questions. Some even allow for collaboration and track progress since a DMP is a living document.
@@ -139,7 +129,7 @@ When it comes to drafting a DMP, you have the option to write it offline using a
 #### Recommended DMP tools
 
 <details>
-  <summary>[Data Stewardship Wizard](https://www.data stewardshipwizard.org)</summary>
+  <summary>[Data Stewardship Wizard](https://www.datastewardshipwizard.org)</summary>
   A publicly available open-source tool that facilitates collaborative creation of data management plans through customizable questionnaires, along with a FAIRness evaluation feature.
 </details>
 
