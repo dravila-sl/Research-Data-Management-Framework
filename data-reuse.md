@@ -175,7 +175,7 @@ Ahmad Abu Dayeh
 This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
 
 #### Last updated
-2024.09.23
+2024.09.18
 
 #### References
 1. Mons, B. (2021). Data Stewardship for Open Science: Implementing Fair principles. Chapman & Hall/CRC
