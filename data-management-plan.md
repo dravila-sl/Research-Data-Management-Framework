@@ -18,6 +18,25 @@ Having a DMP and properly managing your research data is considered good researc
 
 ---
 
+### Table of Contents
+
+1. [Data Management Planning](#data-management-planning)
+2. [What is a Data Management Plan?](#what-is-a-data-management-plan)
+3. [Who uses data management plans?](#who-uses-data-management-plans)
+4. [Key elements of a Data Management Plan (DMP)](#key-elements-of-a-data-management-plan-dmp)
+5. [When should the DMP be ready?](#when-should-the-dmp-be-ready)
+6. [Choosing the right template for your DMP](#choosing-the-right-template-for-your-dmp)
+7. [Choosing the right tool for writing your DMP](#choosing-the-right-tool-for-writing-your-dmp)
+8. [Additional resources for writing and implementing a DMP](#additional-resources-for-writing-and-implementing-a-dmp)
+9. [DMP Examples](#dmp-examples)
+10. [Authors](#authors)
+11. [License](#license)
+12. [Last updated](#last-updated)
+13. [References](#references)
+14. [Helpful Links](#helpful-links)
+
+---
+
 ### What is a Data Management Plan?
 
 A Data Management Plan (DMP) is a formal document that outlines how data will be managed during and after a research project. It provides a clear framework for the acquisition, handling, storage, sharing, and archiving of research data throughout the project's lifecycle. While many funding agencies, particularly government bodies, require a DMP as part of their grant applications, having one is considered good practice even if external funding isn't involved.
