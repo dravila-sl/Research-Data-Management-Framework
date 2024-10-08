@@ -168,19 +168,19 @@ When reusing data from multiple sources, it’s important to ensure consistency 
 
 ---
 
-<blockquote>
+#### Authors
+Ahmad Abu Dayeh
+
+#### License
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
+
+#### Last updated
+2024.09.23
+
+#### References
+1. Mons, B. (2021). Data Stewardship for Open Science: Implementing Fair principles. Chapman & Hall/CRC
+
+#### Helpful Links
+1. [Can I reuse someone else’s research data?](https://www.openaire.eu/can-i-reuse-someone-else-research-data)
   
-Authors: Ahmad Abu Dayeh
- 
-Last updated: 2024.09.10
-
-References:
-  1. Mons, B. (2021). Data Stewardship for Open Science: Implementing Fair principles. Chapman & Hall/CRC
-
-Supplementary reading:
- 
-  1. [Can I reuse someone else’s research data?](https://www.openaire.eu/can-i-reuse-someone-else-research-data)
-  
-  2. [Data reuse stories & use cases](https://www.openaire.eu/data-reuse-use-cases)
-
-</blockquote>
+2. [Data reuse stories & use cases](https://www.openaire.eu/data-reuse-use-cases)
