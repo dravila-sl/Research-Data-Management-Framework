@@ -25,7 +25,6 @@ A good **Data Management Plan (DMP)** not only ensures data integrity but also m
   - [Recommended Tools](#recommended-tools)
   - [Additional Resources](#additional-resources)
   - [Example DMPs](#example-dmps)
-- [Additional Information](#authors)
 
 ---
 
