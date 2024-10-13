@@ -7,13 +7,14 @@
 
 Effective research data management is critical when reusing data from other sources. The following considerations will help ensure that the data is handled responsibly and effectively, leading to reproducible and credible research outcomes.
 
-1. **Check Data Sources**: Use reliable, trusted repositories with clear licensing policies. Make sure the quality of the data is sufficient for your research undertaking.
-2. **Metadata Matters**: Ensure datasets are accompanied by sufficient metadata to understand the data structure and collection context.
-3. **Data Standards and Formats**: Understand the data formats and standards used, and determine if conversion or ETL processes are necessary for integration into your workflow.
-4. **Document Your Work**: Add relevant metadata to how you modified the data
-5. **Keep Track of Versions**: Always document the dataset version and track updates. Consider the need to store a local copy to ensure long-term access to the same version.
-6. **Legal and Ethical Compliance**: Verify consent and licensing, especially when working with sensitive data.
-7. **Cite Properly**: Follow citation guidelines to ensure proper credit is given to data providers.
+Key Considerations for Reusing Data:
+1. **Data Sources**: Start by using reliable repositories and ensure that the data meets quality standards.
+2. **Metadata Importance**: Always check that datasets include adequate metadata to understand the context and structure of the data.
+3. **Data Formats and Standards**: Verify the data format and make any necessary conversions to integrate it into your research.
+4. **Documenting Modifications**: Clearly document any changes made to the data, ensuring traceability and transparency.
+5. **Version Tracking**: Keep track of data versions to ensure consistency and long-term accessibility.
+6. **Ethical and Legal Compliance**: Verify that you have the appropriate permissions and that ethical guidelines are followed.
+7. **Citation**: Properly cite the original data sources in your research to give appropriate credit.
 
 ---
 
