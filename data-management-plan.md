@@ -15,6 +15,26 @@ A good **Data Management Plan (DMP)** not only ensures data integrity but also m
 
 ---
 
+### Table of Contents
+
+- [Data Management Planning](#data-management-planning)
+- [Why Create a DMP?](#why-create-a-dmp)
+- [What is a DMP?](#what-is-a-dmp)
+- [Key Elements of a DMP](#key-elements-of-a-dmp)
+- [Who Uses DMPs?](#who-uses-dmps)
+- [When Should the DMP Be Ready?](#when-should-the-dmp-be-ready)
+- [DMP Templates and Tools](#dmp-templates-and-tools)
+  - [Recommended Tools](#recommended-tools)
+  - [Additional Resources](#additional-resources)
+  - [Example DMPs](#example-dmps)
+- [Authors](#authors)
+- [License](#license)
+- [Last Updated](#last-updated)
+- [References](#references)
+- [Helpful Links](#helpful-links)
+
+---
+
 ### What is a DMP?
 
 A **Data Management Plan (DMP)** outlines how data will be handled during and after a project.
