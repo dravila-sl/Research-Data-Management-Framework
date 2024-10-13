@@ -17,8 +17,6 @@ A good **Data Management Plan (DMP)** not only ensures data integrity but also m
 
 ### Table of Contents
 
-- [Data Management Planning](#data-management-planning)
-- [Why Create a DMP?](#why-create-a-dmp)
 - [What is a DMP?](#what-is-a-dmp)
 - [Key Elements of a DMP](#key-elements-of-a-dmp)
 - [Who Uses DMPs?](#who-uses-dmps)
