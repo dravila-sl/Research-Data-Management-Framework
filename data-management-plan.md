@@ -5,8 +5,8 @@
 
 # Data Management Planning
 
-Data management planning is essential for handling data and documentation throughout a project. The strategies for managing project data are typically formalized in a Data Management Plan (DMP) 
-A good **Data Management Plan (DMP)** not only ensures data integrity but also maximizes the scientific impact of research data, even after the project ends.
+Data management planning is essential for handling data and documentation throughout a project. The strategies for managing project data are typically formalized in a **Data Management Plan (DMP)**.
+A good **DMP** not only ensures data integrity but also maximizes the scientific impact of research data, even after the project ends.
 
 ### Why Create a DMP?
 - **Good Research Practice**: It enhances collaboration and supports efficient workflows.
