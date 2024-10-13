@@ -28,6 +28,8 @@ DMPs are typically required by:
 > [!Important]
 > For PhD students, as well as those participating in projects funded by programs like Horizon 2020, Horizon Europe, and various state plans, the preparation and presentation of a DMP is often mandatory, ensuring a structured approach to data management throughout the research process.
 
+---
+
 ### Key Elements of a DMP
 While different funders and institutions may have specific requirements, a strong DMP should address the following:
 
@@ -112,6 +114,7 @@ These tools often include various DMP templates and provide guidance for interpr
 > - Different funding bodies may have their own preferences regarding DMP templates
 > - Verify which DMP tool/template is recommended or provided by your funding agency.
 > - Ensure the chosen tool includes the specific DMP template you need.
+>
 > For example, [Science Europe](https://www.scienceeurope.org/our-priorities/open-science/research-data-management/) offers a foundational DMP template that can serve as a useful starting point.
 > Furthermore, you can refer to the DMP guidelines outlined in the [Horizon Europe Programme Guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf) and the Horizon Europe Annotated Model Grant Agreement.  
 
