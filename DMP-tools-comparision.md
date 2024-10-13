@@ -1,4 +1,4 @@
-| **Feature/Marker**       | **ARGOS** | **DMP Tool** | **DMPonline** | **Data Stewardship Wizard (DSW)** |
+| **Feature/Marker**       | [**Argos**](https://argos.openaire.eu/splash/) | [**DMPTool**](https://dmptool.org) | [**DMPonline**](https://dmponline.dcc.ac.uk/) | [**Data Stewardship Wizard**](https://ds-wizard.org/) |
 |--------------------------|-----------|--------------|---------------|----------------------------------|
 | **Cost**                 | Free      | Free         | Free (some customization may require institutional subscription) | Free (basic); customization requires programming skills |
 | **Login Requirement**    | Yes (account required) | Yes (account required) | Yes (account required) | Yes (account required) |
