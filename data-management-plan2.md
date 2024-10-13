@@ -25,7 +25,7 @@ DMPs are typically required by:
 - **Funding agencies** (e.g., Horizon Europe, Horizon 2020)
 - **Institutions** or **collaborations**
 
-> [!Important]
+> [!Note]
 > For PhD students, as well as those participating in projects funded by programs like Horizon 2020, Horizon Europe, and various state plans, the preparation and presentation of a DMP is often mandatory, ensuring a structured approach to data management throughout the research process.
 
 ---
@@ -100,7 +100,7 @@ Updates may be needed due to changes in infrastructure, research software, or ne
 - **Updates**: Revise regularly, particularly for projects lasting over 12 months or when there are significant changes.
 - **Final Version**: Submit a comprehensive version at the project’s conclusion, detailing how the data was managed and shared.
 
-> [!Note]
+> [!Important]
 > Each funding agency may have specific requirements for DMP timelines. Always review the relevant documentation from your funding body or institution to ensure compliance.
 
 ---
@@ -129,12 +129,11 @@ These tools often include various DMP templates and provide guidance for interpr
 - [easy.DMP](https://easydmp.no/)
 
 #### Additional Resources
-- [FAIR Implementation Profile Wizard](https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/)
-- [FIP Wizard](https://fip-wizard.readthedocs.io/en/latest/about/about.html)
-- [Research Data Management Organiser](https://rdmorganiser.github.io/)
+- [FAIR Implementation Profile Wizard](https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/) & [FIP Wizard](https://fip-wizard.readthedocs.io/en/latest/about/about.html): A tool designed to help different research or data management communities document and share their strategies for implementing the FAIR principles (Findable, Accessible, Interoperable, Reusable).
+- [Research Data Management Organiser](https://rdmorganiser.github.io/): A platform that supports research projects in planning, implementing, and managing research data management tasks.
 
 #### Example DMPs
-- [Public DMPs from DMPTool](https://dmptool.org/public_plans)
+- [Public DMPs from DMPTool](https://dmptool.org/public_plans): 
 - [NIH Data Management Plan Examples](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#after)
 
 ---
