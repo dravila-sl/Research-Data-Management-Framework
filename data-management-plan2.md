@@ -123,10 +123,8 @@ These tools often include various DMP templates and provide guidance for interpr
 - [**DMPonline**](https://dmponline.dcc.ac.uk/)  
 - [**DMPTool**](https://dmptool.org)  
 - [**Argos**](https://argos.openaire.eu/splash/)
-- [DMP Canvas Generator](https://dmp.vital-it.ch/)
-- [DAMAP](https://damap.org/)
-- [DMPRoadmap](https://github.com/DMPRoadmap/roadmap)
-- [easy.DMP](https://easydmp.no/)
+
+Refer to the [comparison chart](DMP-tools-comparision.md) to explore the differences between the tools.
 
 #### Additional Resources
 - [FAIR Implementation Profile Wizard](https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/) & [FIP Wizard](https://fip-wizard.readthedocs.io/en/latest/about/about.html): A tool designed to help different research or data management communities document and share their strategies for implementing the FAIR principles (Findable, Accessible, Interoperable, Reusable).
