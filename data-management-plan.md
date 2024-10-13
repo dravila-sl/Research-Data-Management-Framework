@@ -144,7 +144,7 @@ Refer to the [comparison chart](DMP-tools-comparision.md) to explore the differe
 - [Research Data Management Organiser](https://rdmorganiser.github.io/): A platform that supports research projects in planning, implementing, and managing research data management tasks.
 
 #### Example DMPs
-- [Public DMPs from DMPTool](https://dmptool.org/public_plans): 
+- [Public DMPs from DMPTool](https://dmptool.org/public_plans)
 - [NIH Data Management Plan Examples](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#after)
 
 ---
